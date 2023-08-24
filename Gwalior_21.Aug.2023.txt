@@ -1,0 +1,809 @@
+tab 	locations														
+age	age_high	age_low	age_unit	geologic_classes	lat_n	lat_s	lithologies	location	location_type	lon_e	lon_w				
+1719	1726	1712	Ma	Intrusive:Igneous	26.268	26.116	Diabase	Gwalior	Outcrop	78.232	78.079				
+>>>>>>>>>>															
+tab 	samples														
+azimuth	bed_dip	bed_dip_direction	citations	dip	geologic_classes	geologic_types	lithologies	method_codes	sample	site	result_quality				
+267	0	90	https://doi.org/10.1016/j.gr.2023.08.004	-37	Intrusive:Igneous	Sill	Diabase	LP-DIR-T	I1936-1A	I1936	g				
+252	0	90	https://doi.org/10.1016/j.gr.2023.08.004	-68	Intrusive:Igneous	Sill	Diabase	LP-DIR-T	I1936-2A	I1936	g				
+307	0	90	https://doi.org/10.1016/j.gr.2023.08.004	-65	Intrusive:Igneous	Sill	Diabase	LP-DIR-T	I1936-3a	I1936	g				
+272	0	90	https://doi.org/10.1016/j.gr.2023.08.004	-45	Intrusive:Igneous	Sill	Diabase	LP-DIR-T	I1936-4A	I1936	g				
+285	0	90	https://doi.org/10.1016/j.gr.2023.08.004	-40	Intrusive:Igneous	Sill	Diabase	LP-DIR-T	I1936-6A	I1936	g				
+281	0	90	https://doi.org/10.1016/j.gr.2023.08.004	-40	Intrusive:Igneous	Sill	Diabase	LP-DIR-T	I1936-7A	I1936	g				
+232	0	90	https://doi.org/10.1016/j.gr.2023.08.004	-40	Intrusive:Igneous	Sill	Diabase	LP-DIR-T	I1936-8A	I1936	g				
+70	0	90	https://doi.org/10.1016/j.gr.2023.08.004	-22	Intrusive:Igneous	Sill	Diabase	LP-DIR-T	I1937-1A	I1937	g				
+71	0	90	https://doi.org/10.1016/j.gr.2023.08.004	-22	Intrusive:Igneous	Sill	Diabase	LP-DIR-T	I1937-2a	I1937	g				
+93	0	90	https://doi.org/10.1016/j.gr.2023.08.004	-10	Intrusive:Igneous	Sill	Diabase	LP-DIR-T	I1937-3A	I1937	g				
+95	0	90	https://doi.org/10.1016/j.gr.2023.08.004	-12	Intrusive:Igneous	Sill	Diabase	LP-DIR-T	I1937-4A	I1937	g				
+73	0	90	https://doi.org/10.1016/j.gr.2023.08.004	-20	Intrusive:Igneous	Sill	Diabase	LP-DIR-T	I1937-6A	I1937	g				
+63	0	90	https://doi.org/10.1016/j.gr.2023.08.004	-21	Intrusive:Igneous	Sill	Diabase	LP-DIR-T	I1937-7A	I1937	g				
+108	0	90	https://doi.org/10.1016/j.gr.2023.08.004	-5	Intrusive:Igneous	Sill	Diabase	LP-DIR-T	I1937-8A	I1937	g				
+321	0	90	https://doi.org/10.1016/j.gr.2023.08.004	-49	Intrusive:Igneous	Sill	Diabase	LP-DIR-T	I1938-1a	I1938	g				
+312	0	90	https://doi.org/10.1016/j.gr.2023.08.004	-60	Intrusive:Igneous	Sill	Diabase	LP-DIR-T	I1938-3A	I1938	g				
+260	0	90	https://doi.org/10.1016/j.gr.2023.08.004	-41	Intrusive:Igneous	Sill	Diabase	LP-DIR-T	I1938-4A	I1938	g				
+254	0	90	https://doi.org/10.1016/j.gr.2023.08.004	-42	Intrusive:Igneous	Sill	Diabase	LP-DIR-T	I1938-5a	I1938	g				
+254	0	90	https://doi.org/10.1016/j.gr.2023.08.004	-45	Intrusive:Igneous	Sill	Diabase	LP-DIR-T	I1938-6a	I1938	g				
+249	0	90	https://doi.org/10.1016/j.gr.2023.08.004	-43	Intrusive:Igneous	Sill	Diabase	LP-DIR-T	I1938-7a	I1938	g				
+266	0	90	https://doi.org/10.1016/j.gr.2023.08.004	-22	Intrusive:Igneous	Sill	Diabase	LP-DIR-T	I1938-8a	I1938	g				
+313	0	90	https://doi.org/10.1016/j.gr.2023.08.004	-21	Intrusive:Igneous	Sill	Diabase	LP-DIR-T	I1938-9a	I1938	g				
+89	0	90	https://doi.org/10.1016/j.gr.2023.08.004	-66	Intrusive:Igneous	Sill	Diabase	LP-DIR-T	I1939-1A	I1939	g				
+94	0	90	https://doi.org/10.1016/j.gr.2023.08.004	-63	Intrusive:Igneous	Sill	Diabase	LP-DIR-T	I1939-3a	I1939	g				
+99	0	90	https://doi.org/10.1016/j.gr.2023.08.004	-48	Intrusive:Igneous	Sill	Diabase	LP-DIR-T	I1939-4a	I1939	g				
+106	0	90	https://doi.org/10.1016/j.gr.2023.08.004	-77	Intrusive:Igneous	Sill	Diabase	LP-DIR-T	I1939-5a	I1939	g				
+98	0	90	https://doi.org/10.1016/j.gr.2023.08.004	-47	Intrusive:Igneous	Sill	Diabase	LP-DIR-T	I1939-6a	I1939	g				
+105	0	90	https://doi.org/10.1016/j.gr.2023.08.004	-64	Intrusive:Igneous	Sill	Diabase	LP-DIR-T	I1939-7a	I1939	g				
+102	0	90	https://doi.org/10.1016/j.gr.2023.08.004	-64	Intrusive:Igneous	Sill	Diabase	LP-DIR-T	I1939-8a	I1939	g				
+82	0	90	https://doi.org/10.1016/j.gr.2023.08.004	-47	Intrusive:Igneous	Sill	Diabase	LP-DIR-T	I1939-2a	I1939	g				
+17	0	90	https://doi.org/10.1016/j.gr.2023.08.004	-41	Sedimentary	Baked Rock	Limestone	LP-DIR-T	I222-1	I222	g				
+355	0	90	https://doi.org/10.1016/j.gr.2023.08.004	-41	Sedimentary	Baked Rock	Limestone	LP-DIR-T	i222-2	I222	g				
+16	0	90	https://doi.org/10.1016/j.gr.2023.08.004	-52	Sedimentary	Baked Rock	Limestone	LP-DIR-T	i222-3	I222	g				
+33	0	90	https://doi.org/10.1016/j.gr.2023.08.004	-19	Sedimentary	Baked Rock	Limestone	LP-DIR-T	i222-4	I222	g				
+9	0	90	https://doi.org/10.1016/j.gr.2023.08.004	-15	Sedimentary	Baked Rock	Limestone	LP-DIR-T	i222-5	I222	g				
+329	0	90	https://doi.org/10.1016/j.gr.2023.08.004	-67	Sedimentary	Baked Rock	Limestone	LP-DIR-T	i222-6	I222	g				
+252	0	90	https://doi.org/10.1016/j.gr.2023.08.004	-68	Intrusive:Igneous	Sill	Diabase	LP-DIR-AF	I1936-2B	I1936	g				
+285	0	90	https://doi.org/10.1016/j.gr.2023.08.004	-40	Intrusive:Igneous	Sill	Diabase	LP-DIR-AF	I1936-6B	I1936	g				
+232	0	90	https://doi.org/10.1016/j.gr.2023.08.004	-40	Intrusive:Igneous	Sill	Diabase	LP-DIR-AF	1936-8b	I1936	g				
+71	0	90	https://doi.org/10.1016/j.gr.2023.08.004	-22	Intrusive:Igneous	Sill	Diabase	LP-DIR-AF	I1937-2B	I1937	g				
+95	0	90	https://doi.org/10.1016/j.gr.2023.08.004	-12	Intrusive:Igneous	Sill	Diabase	LP-DIR-AF	I1937-4B	I1937	g				
+73	0	90	https://doi.org/10.1016/j.gr.2023.08.004	-20	Intrusive:Igneous	Sill	Diabase	LP-DIR-AF	I1937-6z	I1937	g				
+108	0	90	https://doi.org/10.1016/j.gr.2023.08.004	-5	Intrusive:Igneous	Sill	Diabase	LP-DIR-AF	i1937-8b	I1937	g				
+312	0	90	https://doi.org/10.1016/j.gr.2023.08.004	-60	Intrusive:Igneous	Sill	Diabase	LP-DIR-AF	I1938-3B	I1938	g				
+260	0	90	https://doi.org/10.1016/j.gr.2023.08.004	-41	Intrusive:Igneous	Sill	Diabase	LP-DIR-AF	I1938-4B	I1938	g				
+254	0	90	https://doi.org/10.1016/j.gr.2023.08.004	-42	Intrusive:Igneous	Sill	Diabase	LP-DIR-AF	i1938-5b	I1938	g				
+254	0	90	https://doi.org/10.1016/j.gr.2023.08.004	-45	Intrusive:Igneous	Sill	Diabase	LP-DIR-AF	I1938-6b	I1938	g				
+266	0	90	https://doi.org/10.1016/j.gr.2023.08.004	-22	Intrusive:Igneous	Sill	Diabase	LP-DIR-AF	I1938-8B	I1938	g				
+313	0	90	https://doi.org/10.1016/j.gr.2023.08.004	-69	Intrusive:Igneous	Sill	Diabase	LP-DIR-AF	I1938-9B	I1938	g				
+89	0	90	https://doi.org/10.1016/j.gr.2023.08.004	-66	Intrusive:Igneous	Sill	Diabase	LP-DIR-AF	I1939-1B	I1939	g				
+94	0	90	https://doi.org/10.1016/j.gr.2023.08.004	-63	Intrusive:Igneous	Sill	Diabase	LP-DIR-AF	I1939-3B	I1939	g				
+99	0	90	https://doi.org/10.1016/j.gr.2023.08.004	-48	Intrusive:Igneous	Sill	Diabase	LP-DIR-AF	I1939-4B	I1939	g				
+98	0	90	https://doi.org/10.1016/j.gr.2023.08.004	-47	Intrusive:Igneous	Sill	Diabase	LP-DIR-AF	I1939-6B	I1939	g				
+102	0	90	https://doi.org/10.1016/j.gr.2023.08.004	-64	Intrusive:Igneous	Sill	Diabase	LP-DIR-AF	I1939-8b	I1939	g				
+82	0	90	https://doi.org/10.1016/j.gr.2023.08.004	-47	Intrusive:Igneous	Sill	Diabase	LP-DIR-AF	I1939-2B	I1939	g				
+>>>>>>>>>>															
+tab 	specimens														
+citations	experiments	geologic_classes	geologic_types	lithologies	method_codes	sample	specimen	volume	result_quality						
+https://doi.org/10.1016/j.gr.2023.08.004	I1936-1A-LP-DIR-T	Intrusive:Igneous	Sill	Diabase	LP-DIR-T	I1936-1A	I1936-1A	1.10E-05	g						
+https://doi.org/10.1016/j.gr.2023.08.004	I1936-2A-LP-DIR-T	Intrusive:Igneous	Sill	Diabase	LP-DIR-T	I1936-2A	I1936-2A	1.10E-05	g						
+https://doi.org/10.1016/j.gr.2023.08.004	I1936-3a-LP-DIR-T	Intrusive:Igneous	Sill	Diabase	LP-DIR-T	I1936-3a	I1936-3a	1.13E-05	g						
+https://doi.org/10.1016/j.gr.2023.08.004	I1936-4A-LP-DIR-T	Intrusive:Igneous	Sill	Diabase	LP-DIR-T	I1936-4A	I1936-4A	1.10E-05	g						
+https://doi.org/10.1016/j.gr.2023.08.004	I1936-6A-LP-DIR-T	Intrusive:Igneous	Sill	Diabase	LP-DIR-T	I1936-6A	I1936-6A	1.13E-05	g						
+https://doi.org/10.1016/j.gr.2023.08.004	I1936-7A-LP-DIR-T	Intrusive:Igneous	Sill	Diabase	LP-DIR-T	I1936-7A	I1936-7A	1.13E-05	g						
+https://doi.org/10.1016/j.gr.2023.08.004	I1936-8A-LP-DIR-T	Intrusive:Igneous	Sill	Diabase	LP-DIR-T	I1936-8A	I1936-8A	1.13E-05	g						
+https://doi.org/10.1016/j.gr.2023.08.004	I1937-1A-LP-DIR-T	Intrusive:Igneous	Sill	Diabase	LP-DIR-T	I1937-1A	I1937-1A	1.13E-05	g						
+https://doi.org/10.1016/j.gr.2023.08.004	I1937-2a-LP-DIR-T	Intrusive:Igneous	Sill	Diabase	LP-DIR-T	I1937-2a	I1937-2a	1.13E-05	g						
+https://doi.org/10.1016/j.gr.2023.08.004	I1937-3A-LP-DIR-T	Intrusive:Igneous	Sill	Diabase	LP-DIR-T	I1937-3A	I1937-3A	1.10E-05	g						
+https://doi.org/10.1016/j.gr.2023.08.004	I1937-4A-LP-DIR-T	Intrusive:Igneous	Sill	Diabase	LP-DIR-T	I1937-4A	I1937-4A	1.13E-05	g						
+https://doi.org/10.1016/j.gr.2023.08.004	I1937-6A-LP-DIR-T	Intrusive:Igneous	Sill	Diabase	LP-DIR-T	I1937-6A	I1937-6A	1.13E-05	g						
+https://doi.org/10.1016/j.gr.2023.08.004	I1937-7A-LP-DIR-T	Intrusive:Igneous	Sill	Diabase	LP-DIR-T	I1937-7A	I1937-7A	1.13E-05	g						
+https://doi.org/10.1016/j.gr.2023.08.004	I1937-8A-LP-DIR-T	Intrusive:Igneous	Sill	Diabase	LP-DIR-T	I1937-8A	I1937-8A	1.13E-05	g						
+https://doi.org/10.1016/j.gr.2023.08.004	I1938-1a-LP-DIR-T	Intrusive:Igneous	Sill	Diabase	LP-DIR-T	I1938-1a	I1938-1a	1.10E-05	g						
+https://doi.org/10.1016/j.gr.2023.08.004	I1938-3A-LP-DIR-T	Intrusive:Igneous	Sill	Diabase	LP-DIR-T	I1938-3A	I1938-3A	1.10E-05	g						
+https://doi.org/10.1016/j.gr.2023.08.004	I1938-4A-LP-DIR-T	Intrusive:Igneous	Sill	Diabase	LP-DIR-T	I1938-4A	I1938-4A	1.13E-05	g						
+https://doi.org/10.1016/j.gr.2023.08.004	I1938-5a-LP-DIR-T	Intrusive:Igneous	Sill	Diabase	LP-DIR-T	I1938-5a	I1938-5a	1.08E-05	g						
+https://doi.org/10.1016/j.gr.2023.08.004	I1938-6a-LP-DIR-T	Intrusive:Igneous	Sill	Diabase	LP-DIR-T	I1938-6a	I1938-6a	1.10E-05	g						
+https://doi.org/10.1016/j.gr.2023.08.004	I1938-7a-LP-DIR-T	Intrusive:Igneous	Sill	Diabase	LP-DIR-T	I1938-7a	I1938-7a	1.10E-05	g						
+https://doi.org/10.1016/j.gr.2023.08.004	I1938-8a-LP-DIR-T	Intrusive:Igneous	Sill	Diabase	LP-DIR-T	I1938-8a	I1938-8a	1.13E-05	g						
+https://doi.org/10.1016/j.gr.2023.08.004	I1938-9a-LP-DIR-T	Intrusive:Igneous	Sill	Diabase	LP-DIR-T	I1938-9a	I1938-9a	1.13E-05	g						
+https://doi.org/10.1016/j.gr.2023.08.004	I1939-1A-LP-DIR-T	Intrusive:Igneous	Sill	Diabase	LP-DIR-T	I1939-1A	I1939-1A	1.13E-05	g						
+https://doi.org/10.1016/j.gr.2023.08.004	I1939-3a-LP-DIR-T	Intrusive:Igneous	Sill	Diabase	LP-DIR-T	I1939-3a	I1939-3a	1.10E-05	g						
+https://doi.org/10.1016/j.gr.2023.08.004	I1939-4a-LP-DIR-T	Intrusive:Igneous	Sill	Diabase	LP-DIR-T	I1939-4a	I1939-4a	1.13E-05	g						
+https://doi.org/10.1016/j.gr.2023.08.004	I1939-5a-LP-DIR-T	Intrusive:Igneous	Sill	Diabase	LP-DIR-T	I1939-5a	I1939-5a	1.13E-05	g						
+https://doi.org/10.1016/j.gr.2023.08.004	I1939-6a-LP-DIR-T	Intrusive:Igneous	Sill	Diabase	LP-DIR-T	I1939-6a	I1939-6a	1.13E-05	g						
+https://doi.org/10.1016/j.gr.2023.08.004	I1939-7a-LP-DIR-T	Intrusive:Igneous	Sill	Diabase	LP-DIR-T	I1939-7a	I1939-7a	1.13E-05	g						
+https://doi.org/10.1016/j.gr.2023.08.004	I1939-8a-LP-DIR-T	Intrusive:Igneous	Sill	Diabase	LP-DIR-T	I1939-8a	I1939-8a	1.13E-05	g						
+https://doi.org/10.1016/j.gr.2023.08.004	I1939-2a-LP-DIR-T	Intrusive:Igneous	Sill	Diabase	LP-DIR-T	I1939-2a	I1939-2a	1.10E-05	g						
+https://doi.org/10.1016/j.gr.2023.08.004	I222-1-LP-DIR-T	Sedimentary	Baked Rock	Limestone	LP-DIR-T	I222-1	I222-1	1.15E-05	g						
+https://doi.org/10.1016/j.gr.2023.08.004	i222-2-LP-DIR-T	Sedimentary	Baked Rock	Limestone	LP-DIR-T	i222-2	i222-2	1.15E-05	g						
+https://doi.org/10.1016/j.gr.2023.08.004	i222-3-LP-DIR-T	Sedimentary	Baked Rock	Limestone	LP-DIR-T	i222-3	i222-3	1.15E-05	g						
+https://doi.org/10.1016/j.gr.2023.08.004	i222-4-LP-DIR-T	Sedimentary	Baked Rock	Limestone	LP-DIR-T	i222-4	i222-4	1.15E-05	g						
+https://doi.org/10.1016/j.gr.2023.08.004	i222-5-LP-DIR-T	Sedimentary	Baked Rock	Limestone	LP-DIR-T	i222-5	i222-5	1.15E-05	g						
+https://doi.org/10.1016/j.gr.2023.08.004	i222-6-LP-DIR-T	Sedimentary	Baked Rock	Limestone	LP-DIR-T	i222-6	i222-6	1.15E-05	g						
+https://doi.org/10.1016/j.gr.2023.08.004	I1936-2B-LP-DIR-AF	Intrusive:Igneous	Sill	Diabase	LP-DIR-AF	I1936-2B	I1936-2B	1.13E-05	g						
+https://doi.org/10.1016/j.gr.2023.08.004	I1936-6B-LP-DIR-AF	Intrusive:Igneous	Sill	Diabase	LP-DIR-AF	I1936-6B	I1936-6B	1.13E-05	g						
+https://doi.org/10.1016/j.gr.2023.08.004	1936-8b-LP-DIR-AF	Intrusive:Igneous	Sill	Diabase	LP-DIR-AF	1936-8b	1936-8b	1.16E-05	g						
+https://doi.org/10.1016/j.gr.2023.08.004	I1937-2B-LP-DIR-AF	Intrusive:Igneous	Sill	Diabase	LP-DIR-AF	I1937-2B	I1937-2B	9.08E-06	g						
+https://doi.org/10.1016/j.gr.2023.08.004	I1937-4B-LP-DIR-AF	Intrusive:Igneous	Sill	Diabase	LP-DIR-AF	I1937-4B	I1937-4B	1.13E-05	g						
+https://doi.org/10.1016/j.gr.2023.08.004	I1937-6z-LP-DIR-AF	Intrusive:Igneous	Sill	Diabase	LP-DIR-AF	I1937-6z	I1937-6z	5.89E-06	g						
+https://doi.org/10.1016/j.gr.2023.08.004	i1937-8b-LP-DIR-AF	Intrusive:Igneous	Sill	Diabase	LP-DIR-AF	i1937-8b	i1937-8b	1.10E-05	g						
+https://doi.org/10.1016/j.gr.2023.08.004	I1938-3B-LP-DIR-AF	Intrusive:Igneous	Sill	Diabase	LP-DIR-AF	I1938-3B	I1938-3B	1.13E-05	g						
+https://doi.org/10.1016/j.gr.2023.08.004	I1938-4B-LP-DIR-AF	Intrusive:Igneous	Sill	Diabase	LP-DIR-AF	I1938-4B	I1938-4B	1.10E-05	g						
+https://doi.org/10.1016/j.gr.2023.08.004	i1938-5b-LP-DIR-AF	Intrusive:Igneous	Sill	Diabase	LP-DIR-AF	i1938-5b	i1938-5b	1.13E-05	g						
+https://doi.org/10.1016/j.gr.2023.08.004	I1938-6b-LP-DIR-AF	Intrusive:Igneous	Sill	Diabase	LP-DIR-AF	I1938-6b	I1938-6b	1.13E-05	g						
+https://doi.org/10.1016/j.gr.2023.08.004	I1938-8B-LP-DIR-AF	Intrusive:Igneous	Sill	Diabase	LP-DIR-AF	I1938-8B	I1938-8B	1.13E-05	g						
+https://doi.org/10.1016/j.gr.2023.08.004	I1938-9B-LP-DIR-AF	Intrusive:Igneous	Sill	Diabase	LP-DIR-AF	I1938-9B	I1938-9B	1.13E-05	g						
+https://doi.org/10.1016/j.gr.2023.08.004	I1939-1B-LP-DIR-AF	Intrusive:Igneous	Sill	Diabase	LP-DIR-AF	I1939-1B	I1939-1B	1.13E-05	g						
+https://doi.org/10.1016/j.gr.2023.08.004	I1939-3B-LP-DIR-AF	Intrusive:Igneous	Sill	Diabase	LP-DIR-AF	I1939-3B	I1939-3B	1.08E-05	g						
+https://doi.org/10.1016/j.gr.2023.08.004	I1939-4B-LP-DIR-AF	Intrusive:Igneous	Sill	Diabase	LP-DIR-AF	I1939-4B	I1939-4B	1.16E-05	g						
+https://doi.org/10.1016/j.gr.2023.08.004	I1939-6B-LP-DIR-AF	Intrusive:Igneous	Sill	Diabase	LP-DIR-AF	I1939-6B	I1939-6B	8.05E-06	g						
+https://doi.org/10.1016/j.gr.2023.08.004	I1939-8b-LP-DIR-AF	Intrusive:Igneous	Sill	Diabase	LP-DIR-AF	I1939-8b	I1939-8b	1.13E-05	g						
+https://doi.org/10.1016/j.gr.2023.08.004	I1939-2B-LP-DIR-AF	Intrusive:Igneous	Sill	Diabase	LP-DIR-AF	I1939-2B	I1939-2B	1.13E-05	g						
+>>>>>>>>>>															
+tab 	sites														
+age	age_unit	citations	geologic_classes	geologic_types	height	lat	lithologies	location	lon	method_codes	site				
+1719	Ma	https://doi.org/10.1016/j.gr.2023.08.004	Intrusive:Igneous	Sill		26.116	Diabase	Gwalior	78.079	LP-DIR-T	I1936				
+1719	Ma	https://doi.org/10.1016/j.gr.2023.08.004	Intrusive:Igneous	Sill		26.232	Diabase	Gwalior	78.134	LP-DIR-T	I1937				
+1719	Ma	https://doi.org/10.1016/j.gr.2023.08.004	Intrusive:Igneous	Sill		26.265	Diabase	Gwalior	78.232	LP-DIR-T	I1938				
+1719	Ma	https://doi.org/10.1016/j.gr.2023.08.004	Intrusive:Igneous	Sill		26.268	Diabase	Gwalior	78.228	LP-DIR-T	I1939				
+1719	Ma	https://doi.org/10.1016/j.gr.2023.08.004	Sedimentary	Baked Rock		26.116	Limestone	Gwalior	78.083	LP-DIR-T	I222				
+>>>>>>>>>>															
+tab 	ages														
+age	age_unit	citations	location	method_codes	sample	site	specimen								
+1719	Ma	https://doi.org/10.1016/j.gr.2023.08.004	Gwalior	GM-PBPB		I1939									
+>>>>>>>>>>															
+tab 	measurements														
+citations	dir_csd	dir_dec	dir_inc	experiment	instrument_codes	magn_moment	magn_volume	meas_temp	measurement	method_codes	sequence	specimen	treat_ac_field	treat_temp	quality
+This study	2.7	156.8	-44.8	I1936-1A-LP-DIR-T	Molspin	1.49E-05	1.34958	273	I1936-1A-LP-DIR-T-1	LT-T-Z	2	I1936-1A	0	273	g
+This study	3.6	159.3	-47.6	I1936-1A-LP-DIR-T	Molspin	1.43E-05	1.293601	273	I1936-1A-LP-DIR-T-2	LT-T-Z	3	I1936-1A	0	448	g
+This study	3.4	158.8	-46.1	I1936-1A-LP-DIR-T	Molspin	1.43E-05	1.29668	273	I1936-1A-LP-DIR-T-3	LT-T-Z	4	I1936-1A	0	523	g
+This study	3.8	149.1	-45.3	I1936-1A-LP-DIR-T	Molspin	1.33E-05	1.207175	273	I1936-1A-LP-DIR-T-4	LT-T-Z	5	I1936-1A	0	598	g
+This study	1.4	152.6	-46.1	I1936-1A-LP-DIR-T	Molspin	1.20E-05	1.085751	273	I1936-1A-LP-DIR-T-5	LT-T-Z	6	I1936-1A	0	673	g
+This study	1.7	151.3	-46.2	I1936-1A-LP-DIR-T	Molspin	1.18E-05	1.068613	273	I1936-1A-LP-DIR-T-6	LT-T-Z	7	I1936-1A	0	723	g
+This study	1.8	147.4	-47.9	I1936-1A-LP-DIR-T	Molspin	1.16E-05	1.054448	273	I1936-1A-LP-DIR-T-7	LT-T-Z	8	I1936-1A	0	773	g
+This study	1.5	151.7	-47.6	I1936-1A-LP-DIR-T	Molspin	1.08E-05	0.978493	273	I1936-1A-LP-DIR-T-8	LT-T-Z	9	I1936-1A	0	798	g
+This study	2.2	147.6	-49.3	I1936-1A-LP-DIR-T	Molspin	1.00E-05	0.909144	273	I1936-1A-LP-DIR-T-9	LT-T-Z	1	I1936-1A	0	813	g
+This study	1.7	152.1	-48.9	I1936-1A-LP-DIR-T	Molspin	1.89E-06	0.171397	273	I1936-1A-LP-DIR-T-10	LT-T-Z	11	I1936-1A	0	828	g
+This study	1.4	158	-48.9	I1936-1A-LP-DIR-T	Molspin	1.27E-07	0.011482	273	I1936-1A-LP-DIR-T-11	LT-T-Z	12	I1936-1A	0	833	g
+This study	1.9	185.6	-71.2	I1936-2A-LP-DIR-T	Molspin	1.83E-07	0.016585	273	I1936-2A-LP-DIR-T-1	LT-T-Z	2	I1936-2A	0	273	g
+This study	2.1	193.6	-71.2	I1936-2A-LP-DIR-T	Molspin	1.80E-07	0.016334	273	I1936-2A-LP-DIR-T-2	LT-T-Z	3	I1936-2A	0	448	g
+This study	2	196.6	-70.9	I1936-2A-LP-DIR-T	Molspin	1.81E-07	0.016401	273	I1936-2A-LP-DIR-T-3	LT-T-Z	4	I1936-2A	0	523	g
+This study	1.2	206.8	-75.5	I1936-2A-LP-DIR-T	Molspin	1.55E-07	0.01407	273	I1936-2A-LP-DIR-T-4	LT-T-Z	5	I1936-2A	0	598	g
+This study	0.8	202.7	-76.3	I1936-2A-LP-DIR-T	Molspin	1.34E-07	0.012129	273	I1936-2A-LP-DIR-T-5	LT-T-Z	6	I1936-2A	0	673	g
+This study	2.2	201	-78	I1936-2A-LP-DIR-T	Molspin	1.29E-07	0.011674	273	I1936-2A-LP-DIR-T-6	LT-T-Z	7	I1936-2A	0	723	g
+This study	1.9	188.8	-83.8	I1936-2A-LP-DIR-T	Molspin	1.17E-07	0.010579	273	I1936-2A-LP-DIR-T-7	LT-T-Z	8	I1936-2A	0	773	g
+This study	3	191.3	-81.3	I1936-2A-LP-DIR-T	Molspin	4.79E-08	0.004341	273	I1936-2A-LP-DIR-T-8	LT-T-Z	9	I1936-2A	0	798	g
+This study	3.9	197	-73.1	I1936-2A-LP-DIR-T	Molspin	3.99E-08	0.003614	273	I1936-2A-LP-DIR-T-9	LT-T-Z	1	I1936-2A	0	813	g
+This study	4.4	207.5	-75.1	I1936-2A-LP-DIR-T	Molspin	3.38E-08	0.003058	273	I1936-2A-LP-DIR-T-10	LT-T-Z	11	I1936-2A	0	828	g
+This study	5.6	359.3	-20.5	I1936-2A-LP-DIR-T	Molspin	4.64E-09	0.00042	273	I1936-2A-LP-DIR-T-11	LT-T-Z	12	I1936-2A	0	833	g
+This study	1.8	98.6	-32.8	I1936-3a-LP-DIR-T	Molspin	1.82E-05	1.6122831	273	I1936-3a-LP-DIR-T-1	LT-T-Z	2	I1936-3a	0	273	g
+This study	0.7	92	-35.5	I1936-3a-LP-DIR-T	Molspin	1.76E-05	1.5566675	273	I1936-3a-LP-DIR-T-2	LT-T-Z	3	I1936-3a	0	448	g
+This study	1.7	93.5	-36.7	I1936-3a-LP-DIR-T	Molspin	1.71E-05	1.5163041	273	I1936-3a-LP-DIR-T-3	LT-T-Z	4	I1936-3a	0	523	g
+This study	2.3	96.6	-37.7	I1936-3a-LP-DIR-T	Molspin	1.45E-05	1.2875012	273	I1936-3a-LP-DIR-T-4	LT-T-Z	5	I1936-3a	0	598	g
+This study	1.2	95.6	-36.2	I1936-3a-LP-DIR-T	Molspin	1.39E-05	1.2279506	273	I1936-3a-LP-DIR-T-5	LT-T-Z	6	I1936-3a	0	673	g
+This study	2.1	94.8	-36.4	I1936-3a-LP-DIR-T	Molspin	1.31E-05	1.1572592	273	I1936-3a-LP-DIR-T-6	LT-T-Z	7	I1936-3a	0	723	g
+This study	2.1	92.7	-35.7	I1936-3a-LP-DIR-T	Molspin	1.29E-05	1.1423199	273	I1936-3a-LP-DIR-T-7	LT-T-Z	8	I1936-3a	0	773	g
+This study	5.4	91.6	-37.2	I1936-3a-LP-DIR-T	Molspin	1.15E-05	1.0169119	273	I1936-3a-LP-DIR-T-8	LT-T-Z	9	I1936-3a	0	798	g
+This study	3.7	89.1	-37	I1936-3a-LP-DIR-T	Molspin	1.08E-05	0.9563612	273	I1936-3a-LP-DIR-T-9	LT-T-Z	1	I1936-3a	0	813	g
+This study	3.5	332.4	-26.4	I1936-3a-LP-DIR-T	Molspin	1.37E-07	0.0121185	273	I1936-3a-LP-DIR-T-10	LT-T-Z	11	I1936-3a	0	828	g
+This study	12.9	169.7	-47	I1936-4A-LP-DIR-T	Molspin	3.89E-07	0.035193	273	I1936-4A-LP-DIR-T-1	LT-T-Z	2	I1936-4A	0	273	g
+This study	12.8	172.7	-49	I1936-4A-LP-DIR-T	Molspin	3.87E-07	0.035084	273	I1936-4A-LP-DIR-T-2	LT-T-Z	3	I1936-4A	0	448	g
+This study	13.8	173.1	-43.8	I1936-4A-LP-DIR-T	Molspin	3.86E-07	0.03497	273	I1936-4A-LP-DIR-T-3	LT-T-Z	4	I1936-4A	0	523	g
+This study	12	164.8	-44.7	I1936-4A-LP-DIR-T	Molspin	3.54E-07	0.032062	273	I1936-4A-LP-DIR-T-4	LT-T-Z	5	I1936-4A	0	598	g
+This study	10.5	163.8	-46.1	I1936-4A-LP-DIR-T	Molspin	2.68E-07	0.024254	273	I1936-4A-LP-DIR-T-5	LT-T-Z	6	I1936-4A	0	673	g
+This study	12.1	163.2	-48.5	I1936-4A-LP-DIR-T	Molspin	2.58E-07	0.023353	273	I1936-4A-LP-DIR-T-6	LT-T-Z	7	I1936-4A	0	723	g
+This study	14.7	154	-48.2	I1936-4A-LP-DIR-T	Molspin	2.36E-07	0.021412	273	I1936-4A-LP-DIR-T-7	LT-T-Z	8	I1936-4A	0	773	g
+This study	12.8	159.9	-49.1	I1936-4A-LP-DIR-T	Molspin	2.31E-07	0.02091	273	I1936-4A-LP-DIR-T-8	LT-T-Z	9	I1936-4A	0	798	g
+This study	13.6	158.3	-49.5	I1936-4A-LP-DIR-T	Molspin	2.25E-07	0.020401	273	I1936-4A-LP-DIR-T-9	LT-T-Z	1	I1936-4A	0	813	g
+This study	13.3	158.7	-50	I1936-4A-LP-DIR-T	Molspin	2.19E-07	0.01987	273	I1936-4A-LP-DIR-T-10	LT-T-Z	11	I1936-4A	0	828	g
+This study	8	10.5	-11.4	I1936-4A-LP-DIR-T	Molspin	1.42E-08	0.001283	273	I1936-4A-LP-DIR-T-11	LT-T-Z	12	I1936-4A	0	833	g
+This study	3.8	137.2	-33.4	I1936-6A-LP-DIR-T	Molspin	1.86E-07	0.016477	273	I1936-6A-LP-DIR-T-1	LT-T-Z	2	I1936-6A	0	273	g
+This study	3.4	137.5	-34.8	I1936-6A-LP-DIR-T	Molspin	1.75E-07	0.0155	273	I1936-6A-LP-DIR-T-2	LT-T-Z	3	I1936-6A	0	448	g
+This study	3.3	138.7	-37.5	I1936-6A-LP-DIR-T	Molspin	1.59E-07	0.014042	273	I1936-6A-LP-DIR-T-3	LT-T-Z	4	I1936-6A	0	523	g
+This study	6	141.5	-36.5	I1936-6A-LP-DIR-T	Molspin	1.27E-07	0.01122	273	I1936-6A-LP-DIR-T-4	LT-T-Z	5	I1936-6A	0	598	g
+This study	3.7	137	-39.1	I1936-6A-LP-DIR-T	Molspin	1.11E-07	0.009857	273	I1936-6A-LP-DIR-T-5	LT-T-Z	6	I1936-6A	0	673	g
+This study	3	139.1	-41.5	I1936-6A-LP-DIR-T	Molspin	1.08E-07	0.009594	273	I1936-6A-LP-DIR-T-6	LT-T-Z	7	I1936-6A	0	723	g
+This study	3.9	133.5	-40	I1936-6A-LP-DIR-T	Molspin	8.89E-08	0.007873	273	I1936-6A-LP-DIR-T-7	LT-T-Z	8	I1936-6A	0	773	g
+This study	1.6	134.4	-41.2	I1936-6A-LP-DIR-T	Molspin	3.59E-08	0.003183	273	I1936-6A-LP-DIR-T-8	LT-T-Z	9	I1936-6A	0	798	g
+This study	3	134.1	-39.7	I1936-6A-LP-DIR-T	Molspin	3.36E-08	0.002973	273	I1936-6A-LP-DIR-T-9	LT-T-Z	1	I1936-6A	0	813	g
+This study	0.9	138.7	-33.5	I1936-6A-LP-DIR-T	Molspin	8.13E-09	0.00072	273	I1936-6A-LP-DIR-T-10	LT-T-Z	11	I1936-6A	0	828	g
+This study	2.7	148	-30.7	I1936-7A-LP-DIR-T	Molspin	2.70E-07	0.023931	273	I1936-7A-LP-DIR-T-1	LT-T-Z	2	I1936-7A	0	273	g
+This study	2.5	147	-32.3	I1936-7A-LP-DIR-T	Molspin	2.59E-07	0.02292	273	I1936-7A-LP-DIR-T-2	LT-T-Z	3	I1936-7A	0	448	g
+This study	2.4	148.1	-32.7	I1936-7A-LP-DIR-T	Molspin	2.56E-07	0.02269	273	I1936-7A-LP-DIR-T-3	LT-T-Z	4	I1936-7A	0	523	g
+This study	4.7	144	-33.4	I1936-7A-LP-DIR-T	Molspin	2.35E-07	0.020781	273	I1936-7A-LP-DIR-T-4	LT-T-Z	5	I1936-7A	0	598	g
+This study	3	146.1	-31.8	I1936-7A-LP-DIR-T	Molspin	2.15E-07	0.019074	273	I1936-7A-LP-DIR-T-5	LT-T-Z	6	I1936-7A	0	673	g
+This study	3.9	145.8	-33.9	I1936-7A-LP-DIR-T	Molspin	2.00E-07	0.017689	273	I1936-7A-LP-DIR-T-6	LT-T-Z	7	I1936-7A	0	723	g
+This study	4.9	142.2	-36.9	I1936-7A-LP-DIR-T	Molspin	1.37E-07	0.012122	273	I1936-7A-LP-DIR-T-7	LT-T-Z	8	I1936-7A	0	773	g
+This study	4.7	139.5	-36.5	I1936-7A-LP-DIR-T	Molspin	6.30E-08	0.005582	273	I1936-7A-LP-DIR-T-8	LT-T-Z	9	I1936-7A	0	798	g
+This study	2.8	141.8	-40.5	I1936-7A-LP-DIR-T	Molspin	4.66E-08	0.00413	273	I1936-7A-LP-DIR-T-9	LT-T-Z	1	I1936-7A	0	813	g
+This study	3.7	58.5	-45	I1936-7A-LP-DIR-T	Molspin	4.93E-09	0.000437	273	I1936-7A-LP-DIR-T-10	LT-T-Z	11	I1936-7A	0	828	g
+This study	2	207.3	-49	I1936-8A-LP-DIR-T	Molspin	2.36E-07	0.020939	273	I1936-8A-LP-DIR-T-1	LT-T-Z	2	I1936-8A	0	273	g
+This study	6.1	206.8	-49.4	I1936-8A-LP-DIR-T	Molspin	2.32E-07	0.020572	273	I1936-8A-LP-DIR-T-2	LT-T-Z	3	I1936-8A	0	448	g
+This study	3.5	206.6	-48.1	I1936-8A-LP-DIR-T	Molspin	2.29E-07	0.020253	273	I1936-8A-LP-DIR-T-3	LT-T-Z	4	I1936-8A	0	523	g
+This study	4.1	205.9	-49.7	I1936-8A-LP-DIR-T	Molspin	2.24E-07	0.019854	273	I1936-8A-LP-DIR-T-4	LT-T-Z	5	I1936-8A	0	598	g
+This study	3.1	201.9	-49.5	I1936-8A-LP-DIR-T	Molspin	2.10E-07	0.018618	273	I1936-8A-LP-DIR-T-5	LT-T-Z	6	I1936-8A	0	673	g
+This study	2.8	206.8	-49.8	I1936-8A-LP-DIR-T	Molspin	1.99E-07	0.017589	273	I1936-8A-LP-DIR-T-6	LT-T-Z	7	I1936-8A	0	723	g
+This study	2.9	200.9	-52.9	I1936-8A-LP-DIR-T	Molspin	1.67E-07	0.014766	273	I1936-8A-LP-DIR-T-7	LT-T-Z	8	I1936-8A	0	773	g
+This study	6.7	206.3	-51.5	I1936-8A-LP-DIR-T	Molspin	8.25E-08	0.00731	273	I1936-8A-LP-DIR-T-8	LT-T-Z	9	I1936-8A	0	798	g
+This study	3.4	214.9	-52.4	I1936-8A-LP-DIR-T	Molspin	7.81E-08	0.006914	273	I1936-8A-LP-DIR-T-9	LT-T-Z	1	I1936-8A	0	813	g
+This study	4	212.5	-52.3	I1936-8A-LP-DIR-T	Molspin	7.05E-08	0.006245	273	I1936-8A-LP-DIR-T-10	LT-T-Z	11	I1936-8A	0	828	g
+This study	5	211.9	-49.4	I1936-8A-LP-DIR-T	Molspin	7.45E-09	0.00066	273	I1936-8A-LP-DIR-T-11	LT-T-Z	12	I1936-8A	0	833	g
+This study	2.5	312.2	38.6	I1937-1A-LP-DIR-T	Molspin	9.34E-06	0.82766	273	I1937-1A-LP-DIR-T-1	LT-T-Z	2	I1937-1A	0	273	g
+This study	2.3	316.4	37.5	I1937-1A-LP-DIR-T	Molspin	8.00E-06	0.708716	273	I1937-1A-LP-DIR-T-2	LT-T-Z	3	I1937-1A	0	448	g
+This study	3.1	321.8	35.9	I1937-1A-LP-DIR-T	Molspin	7.57E-06	0.670239	273	I1937-1A-LP-DIR-T-3	LT-T-Z	4	I1937-1A	0	523	g
+This study	2.7	324.9	36.7	I1937-1A-LP-DIR-T	Molspin	7.19E-06	0.636929	273	I1937-1A-LP-DIR-T-4	LT-T-Z	5	I1937-1A	0	598	g
+This study	2.4	332.3	33.4	I1937-1A-LP-DIR-T	Molspin	6.94E-06	0.615143	273	I1937-1A-LP-DIR-T-5	LT-T-Z	6	I1937-1A	0	673	g
+This study	4.6	334.2	34.6	I1937-1A-LP-DIR-T	Molspin	6.62E-06	0.586399	273	I1937-1A-LP-DIR-T-6	LT-T-Z	7	I1937-1A	0	723	g
+This study	4.4	334.4	31.9	I1937-1A-LP-DIR-T	Molspin	6.48E-06	0.573962	273	I1937-1A-LP-DIR-T-7	LT-T-Z	8	I1937-1A	0	773	g
+This study	3.2	353.8	22.8	I1937-1A-LP-DIR-T	Molspin	4.57E-06	0.404947	273	I1937-1A-LP-DIR-T-8	LT-T-Z	9	I1937-1A	0	798	g
+This study	3.1	350.4	26	I1937-1A-LP-DIR-T	Molspin	4.17E-06	0.36959	273	I1937-1A-LP-DIR-T-9	LT-T-Z	1	I1937-1A	0	813	g
+This study	2.4	351.3	25.4	I1937-1A-LP-DIR-T	Molspin	4.10E-06	0.362951	273	I1937-1A-LP-DIR-T-10	LT-T-Z	11	I1937-1A	0	828	g
+This study	3.5	351	26.1	I1937-1A-LP-DIR-T	Molspin	3.65E-06	0.32298	273	I1937-1A-LP-DIR-T-11	LT-T-Z	12	I1937-1A	0	833	g
+This study	1.9	351.6	24.2	I1937-1A-LP-DIR-T	Molspin	3.16E-06	0.279771	273	I1937-1A-LP-DIR-T-12	LT-T-Z	13	I1937-1A	0	838	g
+This study	3.1	355.3	22.2	I1937-1A-LP-DIR-T	Molspin	3.69E-07	0.032681	273	I1937-1A-LP-DIR-T-13	LT-T-Z	14	I1937-1A	0	843	g
+This study	2.2	308	36.5	I1937-2a-LP-DIR-T	Molspin	8.72E-06	0.7722056	273	I1937-2a-LP-DIR-T-1	LT-T-Z	2	I1937-2a	0	273	g
+This study	0.8	317.5	37.4	I1937-2a-LP-DIR-T	Molspin	7.37E-06	0.6531845	273	I1937-2a-LP-DIR-T-2	LT-T-Z	3	I1937-2a	0	448	g
+This study	1.2	324.7	35.3	I1937-2a-LP-DIR-T	Molspin	7.11E-06	0.6295225	273	I1937-2a-LP-DIR-T-3	LT-T-Z	4	I1937-2a	0	523	g
+This study	1.9	330.1	33.9	I1937-2a-LP-DIR-T	Molspin	6.95E-06	0.6154634	273	I1937-2a-LP-DIR-T-4	LT-T-Z	5	I1937-2a	0	598	g
+This study	2.4	332.4	33.5	I1937-2a-LP-DIR-T	Molspin	6.62E-06	0.5862221	273	I1937-2a-LP-DIR-T-5	LT-T-Z	6	I1937-2a	0	673	g
+This study	2.9	338	32.1	I1937-2a-LP-DIR-T	Molspin	6.55E-06	0.5800726	273	I1937-2a-LP-DIR-T-6	LT-T-Z	7	I1937-2a	0	723	g
+This study	1.4	347.7	30.4	I1937-2a-LP-DIR-T	Molspin	6.17E-06	0.5464816	273	I1937-2a-LP-DIR-T-7	LT-T-Z	8	I1937-2a	0	773	g
+This study	1.7	353.7	25.2	I1937-2a-LP-DIR-T	Molspin	3.30E-06	0.2925653	273	I1937-2a-LP-DIR-T-8	LT-T-Z	9	I1937-2a	0	798	g
+This study	1.9	351.5	27	I1937-2a-LP-DIR-T	Molspin	2.79E-06	0.2475598	273	I1937-2a-LP-DIR-T-9	LT-T-Z	1	I1937-2a	0	813	g
+This study	1.5	1.3	16.9	I1937-2a-LP-DIR-T	Molspin	2.38E-07	0.0210799	273	I1937-2a-LP-DIR-T-10	LT-T-Z	11	I1937-2a	0	828	g
+This study	4.2	301.6	15.6	I1937-3A-LP-DIR-T	Molspin	8.46E-06	0.766	273	I1937-3A-LP-DIR-T-1	LT-T-Z	2	I1937-3A	0	273	g
+This study	2.7	302	19.3	I1937-3A-LP-DIR-T	Molspin	6.91E-06	0.625774	273	I1937-3A-LP-DIR-T-2	LT-T-Z	3	I1937-3A	0	448	g
+This study	3.7	307.2	19	I1937-3A-LP-DIR-T	Molspin	6.71E-06	0.607417	273	I1937-3A-LP-DIR-T-3	LT-T-Z	4	I1937-3A	0	523	g
+This study	2.4	315.2	18.5	I1937-3A-LP-DIR-T	Molspin	6.50E-06	0.588729	273	I1937-3A-LP-DIR-T-4	LT-T-Z	5	I1937-3A	0	598	g
+This study	4.1	315.2	18.9	I1937-3A-LP-DIR-T	Molspin	6.07E-06	0.550006	273	I1937-3A-LP-DIR-T-5	LT-T-Z	6	I1937-3A	0	673	g
+This study	2.1	318.8	16.6	I1937-3A-LP-DIR-T	Molspin	5.90E-06	0.53465	273	I1937-3A-LP-DIR-T-6	LT-T-Z	7	I1937-3A	0	723	g
+This study	3.9	323.8	16.5	I1937-3A-LP-DIR-T	Molspin	5.82E-06	0.52688	273	I1937-3A-LP-DIR-T-7	LT-T-Z	8	I1937-3A	0	773	g
+This study	2	325.7	15	I1937-3A-LP-DIR-T	Molspin	5.79E-06	0.52432	273	I1937-3A-LP-DIR-T-8	LT-T-Z	9	I1937-3A	0	798	g
+This study	3.4	330.4	12.3	I1937-3A-LP-DIR-T	Molspin	5.69E-06	0.514969	273	I1937-3A-LP-DIR-T-9	LT-T-Z	1	I1937-3A	0	813	g
+This study	2.5	329.4	12.8	I1937-3A-LP-DIR-T	Molspin	5.36E-06	0.485798	273	I1937-3A-LP-DIR-T-10	LT-T-Z	11	I1937-3A	0	828	g
+This study	1.3	334.8	12.1	I1937-3A-LP-DIR-T	Molspin	7.42E-08	0.006717	273	I1937-3A-LP-DIR-T-11	LT-T-Z	12	I1937-3A	0	833	g
+This study	3.9	295.2	19.7	I1937-4A-LP-DIR-T	Molspin	8.78E-06	0.777278	273	I1937-4A-LP-DIR-T-1	LT-T-Z	2	I1937-4A	0	273	g
+This study	1.2	305.3	18.5	I1937-4A-LP-DIR-T	Molspin	8.41E-06	0.74532	273	I1937-4A-LP-DIR-T-2	LT-T-Z	3	I1937-4A	0	273	g
+This study	2.4	304.6	18.6	I1937-4A-LP-DIR-T	Molspin	7.90E-06	0.699493	273	I1937-4A-LP-DIR-T-3	LT-T-Z	4	I1937-4A	0	448	g
+This study	2.3	306.1	17.9	I1937-4A-LP-DIR-T	Molspin	7.53E-06	0.666855	273	I1937-4A-LP-DIR-T-4	LT-T-Z	5	I1937-4A	0	523	g
+This study	1.6	313.1	15.7	I1937-4A-LP-DIR-T	Molspin	7.75E-06	0.686069	273	I1937-4A-LP-DIR-T-5	LT-T-Z	6	I1937-4A	0	598	g
+This study	5.5	318.4	15	I1937-4A-LP-DIR-T	Molspin	7.40E-06	0.655721	273	I1937-4A-LP-DIR-T-6	LT-T-Z	7	I1937-4A	0	673	g
+This study	4.1	317.1	14.6	I1937-4A-LP-DIR-T	Molspin	7.20E-06	0.637427	273	I1937-4A-LP-DIR-T-7	LT-T-Z	8	I1937-4A	0	723	g
+This study	2.1	328.1	12.2	I1937-4A-LP-DIR-T	Molspin	7.01E-06	0.620977	273	I1937-4A-LP-DIR-T-8	LT-T-Z	9	I1937-4A	0	773	g
+This study	2.6	331.6	7.4	I1937-4A-LP-DIR-T	Molspin	5.48E-06	0.485392	273	I1937-4A-LP-DIR-T-9	LT-T-Z	1	I1937-4A	0	798	g
+This study	3	333.5	8.5	I1937-4A-LP-DIR-T	Molspin	5.06E-06	0.447978	273	I1937-4A-LP-DIR-T-10	LT-T-Z	11	I1937-4A	0	813	g
+This study	3.1	334.9	8.8	I1937-4A-LP-DIR-T	Molspin	2.87E-06	0.254468	273	I1937-4A-LP-DIR-T-11	LT-T-Z	12	I1937-4A	0	828	g
+This study	1.5	331	9	I1937-4A-LP-DIR-T	Molspin	2.71E-06	0.239723	273	I1937-4A-LP-DIR-T-12	LT-T-Z	13	I1937-4A	0	833	g
+This study	3.7	332.7	9.3	I1937-4A-LP-DIR-T	Molspin	2.15E-06	0.190476	273	I1937-4A-LP-DIR-T-13	LT-T-Z	14	I1937-4A	0	838	g
+This study	2.6	333.6	9.8	I1937-4A-LP-DIR-T	Molspin	1.19E-07	0.010537	273	I1937-4A-LP-DIR-T-14	LT-T-Z	15	I1937-4A	0	843	g
+This study	3.1	315	26.9	I1937-6A-LP-DIR-T	Molspin	1.03E-05	0.915126	273	I1937-6A-LP-DIR-T-1	LT-T-Z	2	I1937-6A	0	273	g
+This study	2	321.4	26.4	I1937-6A-LP-DIR-T	Molspin	8.70E-06	0.770975	273	I1937-6A-LP-DIR-T-2	LT-T-Z	3	I1937-6A	0	448	g
+This study	2	326.7	25.2	I1937-6A-LP-DIR-T	Molspin	8.35E-06	0.739922	273	I1937-6A-LP-DIR-T-3	LT-T-Z	4	I1937-6A	0	523	g
+This study	2.4	330.3	24.1	I1937-6A-LP-DIR-T	Molspin	8.50E-06	0.753292	273	I1937-6A-LP-DIR-T-4	LT-T-Z	5	I1937-6A	0	598	g
+This study	2.9	334.9	24	I1937-6A-LP-DIR-T	Molspin	8.05E-06	0.713459	273	I1937-6A-LP-DIR-T-5	LT-T-Z	6	I1937-6A	0	673	g
+This study	2.6	339.9	20.5	I1937-6A-LP-DIR-T	Molspin	7.89E-06	0.698502	273	I1937-6A-LP-DIR-T-6	LT-T-Z	7	I1937-6A	0	723	g
+This study	1	346.2	18.3	I1937-6A-LP-DIR-T	Molspin	7.28E-06	0.644863	273	I1937-6A-LP-DIR-T-7	LT-T-Z	8	I1937-6A	0	773	g
+This study	3.8	346.1	16.9	I1937-6A-LP-DIR-T	Molspin	7.17E-06	0.635163	273	I1937-6A-LP-DIR-T-8	LT-T-Z	9	I1937-6A	0	798	g
+This study	1.5	351.1	18.3	I1937-6A-LP-DIR-T	Molspin	7.03E-06	0.622356	273	I1937-6A-LP-DIR-T-9	LT-T-Z	1	I1937-6A	0	813	g
+This study	2.1	355.8	15.9	I1937-6A-LP-DIR-T	Molspin	5.96E-08	0.005277	273	I1937-6A-LP-DIR-T-10	LT-T-Z	11	I1937-6A	0	828	g
+This study	8.5	327.8	38.3	I1937-7A-LP-DIR-T	Molspin	1.05E-05	0.928943	273	I1937-7A-LP-DIR-T-1	LT-T-Z	2	I1937-7A	0	273	g
+This study	0.9	328.9	35.8	I1937-7A-LP-DIR-T	Molspin	8.03E-06	0.711629	273	I1937-7A-LP-DIR-T-2	LT-T-Z	3	I1937-7A	0	448	g
+This study	3.6	335.4	33.5	I1937-7A-LP-DIR-T	Molspin	7.37E-06	0.652725	273	I1937-7A-LP-DIR-T-3	LT-T-Z	4	I1937-7A	0	523	g
+This study	1.8	337.2	33.4	I1937-7A-LP-DIR-T	Molspin	7.14E-06	0.63253	273	I1937-7A-LP-DIR-T-4	LT-T-Z	5	I1937-7A	0	598	g
+This study	4	343.4	31.4	I1937-7A-LP-DIR-T	Molspin	6.99E-06	0.618892	273	I1937-7A-LP-DIR-T-5	LT-T-Z	6	I1937-7A	0	673	g
+This study	3.7	352.5	27.8	I1937-7A-LP-DIR-T	Molspin	6.52E-06	0.577525	273	I1937-7A-LP-DIR-T-6	LT-T-Z	7	I1937-7A	0	723	g
+This study	1.7	353.4	27	I1937-7A-LP-DIR-T	Molspin	6.27E-06	0.555158	273	I1937-7A-LP-DIR-T-7	LT-T-Z	8	I1937-7A	0	773	g
+This study	1.6	359.6	22.1	I1937-7A-LP-DIR-T	Molspin	5.63E-06	0.499071	273	I1937-7A-LP-DIR-T-8	LT-T-Z	9	I1937-7A	0	798	g
+This study	1.8	5.9	17.6	I1937-7A-LP-DIR-T	Molspin	3.12E-06	0.276138	273	I1937-7A-LP-DIR-T-9	LT-T-Z	1	I1937-7A	0	813	g
+This study	4.7	4	18.5	I1937-7A-LP-DIR-T	Molspin	5.20E-07	0.046043	273	I1937-7A-LP-DIR-T-10	LT-T-Z	11	I1937-7A	0	828	g
+This study	4.2	356.7	16.8	I1937-7A-LP-DIR-T	Molspin	5.08E-08	0.004499	273	I1937-7A-LP-DIR-T-11	LT-T-Z	12	I1937-7A	0	833	g
+This study	1.2	275.6	16.9	I1937-8A-LP-DIR-T	Molspin	1.15E-05	1.01982	273	I1937-8A-LP-DIR-T-1	LT-T-Z	2	I1937-8A	0	273	g
+This study	2.7	278.3	14.2	I1937-8A-LP-DIR-T	Molspin	1.02E-05	0.907726	273	I1937-8A-LP-DIR-T-2	LT-T-Z	3	I1937-8A	0	448	g
+This study	3.8	280.1	12.5	I1937-8A-LP-DIR-T	Molspin	9.74E-06	0.862475	273	I1937-8A-LP-DIR-T-3	LT-T-Z	4	I1937-8A	0	523	g
+This study	4.2	287.2	11.6	I1937-8A-LP-DIR-T	Molspin	9.10E-06	0.805757	273	I1937-8A-LP-DIR-T-4	LT-T-Z	5	I1937-8A	0	598	g
+This study	3.5	294.8	9.8	I1937-8A-LP-DIR-T	Molspin	9.03E-06	0.799748	273	I1937-8A-LP-DIR-T-5	LT-T-Z	6	I1937-8A	0	673	g
+This study	4.9	297.9	8.5	I1937-8A-LP-DIR-T	Molspin	8.62E-06	0.763588	273	I1937-8A-LP-DIR-T-6	LT-T-Z	7	I1937-8A	0	723	g
+This study	3.8	306.5	5.9	I1937-8A-LP-DIR-T	Molspin	8.06E-06	0.714243	273	I1937-8A-LP-DIR-T-7	LT-T-Z	8	I1937-8A	0	773	g
+This study	6.4	313.7	1.1	I1937-8A-LP-DIR-T	Molspin	3.70E-06	0.327563	273	I1937-8A-LP-DIR-T-8	LT-T-Z	9	I1937-8A	0	798	g
+This study	5.3	312.6	1.2	I1937-8A-LP-DIR-T	Molspin	2.20E-06	0.195215	273	I1937-8A-LP-DIR-T-9	LT-T-Z	1	I1937-8A	0	813	g
+This study	5.5	317.1	1.5	I1937-8A-LP-DIR-T	Molspin	2.04E-06	0.180888	273	I1937-8A-LP-DIR-T-10	LT-T-Z	11	I1937-8A	0	828	g
+This study	3.7	315.4	1.8	I1937-8A-LP-DIR-T	Molspin	1.28E-07	0.011311	273	I1937-8A-LP-DIR-T-11	LT-T-Z	12	I1937-8A	0	833	g
+This study	3.9	123.8	51.2	I1938-1a-LP-DIR-T	Molspin	2.95E-05	2.6744675	273	I1938-1a-LP-DIR-T-1	LT-T-Z	2	I1938-1a	0	273	g
+This study	4.1	121.3	44.4	I1938-1a-LP-DIR-T	Molspin	2.21E-05	2.0048484	273	I1938-1a-LP-DIR-T-2	LT-T-Z	3	I1938-1a	0	448	g
+This study	4.7	121.7	35.9	I1938-1a-LP-DIR-T	Molspin	1.84E-05	1.6640579	273	I1938-1a-LP-DIR-T-3	LT-T-Z	4	I1938-1a	0	523	g
+This study	6.6	125	25.7	I1938-1a-LP-DIR-T	Molspin	1.52E-05	1.3754774	273	I1938-1a-LP-DIR-T-4	LT-T-Z	5	I1938-1a	0	598	g
+This study	6.5	122.1	20.3	I1938-1a-LP-DIR-T	Molspin	1.35E-05	1.2192181	273	I1938-1a-LP-DIR-T-5	LT-T-Z	6	I1938-1a	0	673	g
+This study	6.3	121.3	16.1	I1938-1a-LP-DIR-T	Molspin	1.18E-05	1.0709506	273	I1938-1a-LP-DIR-T-6	LT-T-Z	7	I1938-1a	0	723	g
+This study	3.7	122.1	11	I1938-1a-LP-DIR-T	Molspin	1.10E-05	0.9986108	273	I1938-1a-LP-DIR-T-7	LT-T-Z	8	I1938-1a	0	773	g
+This study	5.8	119.5	6.2	I1938-1a-LP-DIR-T	Molspin	9.67E-06	0.8756003	273	I1938-1a-LP-DIR-T-8	LT-T-Z	9	I1938-1a	0	798	g
+This study	5.1	116.1	-0.6	I1938-1a-LP-DIR-T	Molspin	6.55E-06	0.5935245	273	I1938-1a-LP-DIR-T-9	LT-T-Z	1	I1938-1a	0	813	g
+This study	3.5	118.7	0.8	I1938-1a-LP-DIR-T	Molspin	5.62E-06	0.5089135	273	I1938-1a-LP-DIR-T-10	LT-T-Z	11	I1938-1a	0	828	g
+This study	6.4	112.9	-0.4	I1938-1a-LP-DIR-T	Molspin	5.06E-06	0.4585579	273	I1938-1a-LP-DIR-T-11	LT-T-Z	12	I1938-1a	0	833	g
+This study	6.3	113.6	-21.9	I1938-1a-LP-DIR-T	Molspin	2.00E-07	0.0181207	273	I1938-1a-LP-DIR-T-12	LT-T-Z	13	I1938-1a	0	838	g
+This study	3.9	117.7	7.2	I1938-3A-LP-DIR-T	Molspin	1.95E-05	1.767559	273	I1938-3A-LP-DIR-T-1	LT-T-Z	2	I1938-3A	0	273	g
+This study	1.8	117.2	-3.5	I1938-3A-LP-DIR-T	Molspin	1.48E-05	1.339767	273	I1938-3A-LP-DIR-T-2	LT-T-Z	3	I1938-3A	0	448	g
+This study	3.2	120.8	-5.6	I1938-3A-LP-DIR-T	Molspin	1.44E-05	1.303902	273	I1938-3A-LP-DIR-T-3	LT-T-Z	4	I1938-3A	0	523	g
+This study	2.3	117.6	-7.7	I1938-3A-LP-DIR-T	Molspin	1.30E-05	1.174811	273	I1938-3A-LP-DIR-T-4	LT-T-Z	5	I1938-3A	0	598	g
+This study	1.7	117.6	-9.2	I1938-3A-LP-DIR-T	Molspin	1.06E-05	0.960625	273	I1938-3A-LP-DIR-T-5	LT-T-Z	6	I1938-3A	0	673	g
+This study	1.8	119.1	-10.1	I1938-3A-LP-DIR-T	Molspin	1.02E-05	0.927676	273	I1938-3A-LP-DIR-T-6	LT-T-Z	7	I1938-3A	0	723	g
+This study	1.3	116.8	-13.8	I1938-3A-LP-DIR-T	Molspin	9.15E-06	0.829006	273	I1938-3A-LP-DIR-T-7	LT-T-Z	8	I1938-3A	0	773	g
+This study	2.3	119.1	-15.9	I1938-3A-LP-DIR-T	Molspin	7.31E-06	0.662322	273	I1938-3A-LP-DIR-T-8	LT-T-Z	9	I1938-3A	0	798	g
+This study	2.1	112.7	-12.7	I1938-3A-LP-DIR-T	Molspin	2.00E-06	0.181207	273	I1938-3A-LP-DIR-T-9	LT-T-Z	1	I1938-3A	0	813	g
+This study	2.2	113.2	-5.6	I1938-3A-LP-DIR-T	Molspin	1.87E-06	0.16927	273	I1938-3A-LP-DIR-T-10	LT-T-Z	11	I1938-3A	0	828	g
+This study	4.9	318.5	-15.3	I1938-3A-LP-DIR-T	Molspin	1.37E-07	0.012418	273	I1938-3A-LP-DIR-T-11	LT-T-Z	12	I1938-3A	0	833	g
+This study	2.5	168.8	-25.3	I1938-4A-LP-DIR-T	Molspin	1.45E-05	1.28647	273	I1938-4A-LP-DIR-T-1	LT-T-Z	2	I1938-4A	0	273	g
+This study	3	175	-30.3	I1938-4A-LP-DIR-T	Molspin	1.39E-05	1.234315	273	I1938-4A-LP-DIR-T-2	LT-T-Z	3	I1938-4A	0	448	g
+This study	1.1	177.2	-31.8	I1938-4A-LP-DIR-T	Molspin	1.34E-05	1.189294	273	I1938-4A-LP-DIR-T-3	LT-T-Z	4	I1938-4A	0	523	g
+This study	4.5	177.5	-31.2	I1938-4A-LP-DIR-T	Molspin	1.23E-05	1.086089	273	I1938-4A-LP-DIR-T-4	LT-T-Z	5	I1938-4A	0	598	g
+This study	2.8	175.5	-32.4	I1938-4A-LP-DIR-T	Molspin	1.15E-05	1.021924	273	I1938-4A-LP-DIR-T-5	LT-T-Z	6	I1938-4A	0	673	g
+This study	2.8	178.4	-31.9	I1938-4A-LP-DIR-T	Molspin	1.13E-05	1.00232	273	I1938-4A-LP-DIR-T-6	LT-T-Z	7	I1938-4A	0	723	g
+This study	4.6	178.6	-30.6	I1938-4A-LP-DIR-T	Molspin	1.07E-05	0.951743	273	I1938-4A-LP-DIR-T-7	LT-T-Z	8	I1938-4A	0	773	g
+This study	4.4	175.2	-31.9	I1938-4A-LP-DIR-T	Molspin	9.70E-06	0.859563	273	I1938-4A-LP-DIR-T-8	LT-T-Z	9	I1938-4A	0	798	g
+This study	4.5	176.4	-32.3	I1938-4A-LP-DIR-T	Molspin	9.32E-06	0.825865	273	I1938-4A-LP-DIR-T-9	LT-T-Z	1	I1938-4A	0	813	g
+This study	2.6	176.1	-33.1	I1938-4A-LP-DIR-T	Molspin	9.13E-06	0.8083	273	I1938-4A-LP-DIR-T-10	LT-T-Z	11	I1938-4A	0	828	g
+This study	1	175.9	-32.8	I1938-4A-LP-DIR-T	Molspin	3.65E-07	0.032327	273	I1938-4A-LP-DIR-T-11	LT-T-Z	12	I1938-4A	0	833	g
+This study	3.8	263.9	-21.4	I1938-4A-LP-DIR-T	Molspin	2.12E-07	0.01879	273	I1938-4A-LP-DIR-T-12	LT-T-Z	13	I1938-4A	0	833	g
+This study	2.7	167.9	-33	I1938-5a-LP-DIR-T	Molspin	1.30E-05	1.2048291	273	I1938-5a-LP-DIR-T-1	LT-T-Z	2	I1938-5a	0	273	g
+This study	1	176	-33.1	I1938-5a-LP-DIR-T	Molspin	1.24E-05	1.1471189	273	I1938-5a-LP-DIR-T-2	LT-T-Z	3	I1938-5a	0	448	g
+This study	0.8	174.3	-30.4	I1938-5a-LP-DIR-T	Molspin	1.25E-05	1.1551841	273	I1938-5a-LP-DIR-T-3	LT-T-Z	4	I1938-5a	0	523	g
+This study	2.3	177.3	-31.4	I1938-5a-LP-DIR-T	Molspin	1.23E-05	1.1407948	273	I1938-5a-LP-DIR-T-4	LT-T-Z	5	I1938-5a	0	598	g
+This study	1.2	170.4	-30.4	I1938-5a-LP-DIR-T	Molspin	1.11E-05	1.0266785	273	I1938-5a-LP-DIR-T-5	LT-T-Z	6	I1938-5a	0	673	g
+This study	0.6	173.3	-31.7	I1938-5a-LP-DIR-T	Molspin	1.06E-05	0.9797687	273	I1938-5a-LP-DIR-T-6	LT-T-Z	7	I1938-5a	0	723	g
+This study	1.2	172.4	-33.2	I1938-5a-LP-DIR-T	Molspin	9.98E-06	0.9240662	273	I1938-5a-LP-DIR-T-7	LT-T-Z	8	I1938-5a	0	773	g
+This study	2.4	173.3	-33.1	I1938-5a-LP-DIR-T	Molspin	6.49E-06	0.6009407	273	I1938-5a-LP-DIR-T-8	LT-T-Z	9	I1938-5a	0	798	g
+This study	2.5	183.4	-15.1	I1938-5a-LP-DIR-T	Molspin	7.05E-07	0.0653017	273	I1938-5a-LP-DIR-T-9	LT-T-Z	1	I1938-5a	0	813	g
+This study	1.5	179.4	-23.6	I1938-5a-LP-DIR-T	Molspin	6.86E-07	0.0635074	273	I1938-5a-LP-DIR-T-10	LT-T-Z	11	I1938-5a	0	828	g
+This study	3.5	167.7	-32.8	I1938-5a-LP-DIR-T	Molspin	6.03E-07	0.05584	273	I1938-5a-LP-DIR-T-11	LT-T-Z	12	I1938-5a	0	833	g
+This study	1.5	81.1	-69.2	I1938-5a-LP-DIR-T	Molspin	1.34E-07	0.0124164	273	I1938-5a-LP-DIR-T-12	LT-T-Z	13	I1938-5a	0	838	g
+This study	3	160.4	-31.9	I1938-6a-LP-DIR-T	Molspin	1.79E-05	1.623834	273	I1938-6a-LP-DIR-T-1	LT-T-Z	2	I1938-6a	0	273	g
+This study	0.9	164.3	-35.1	I1938-6a-LP-DIR-T	Molspin	1.66E-05	1.5029084	273	I1938-6a-LP-DIR-T-2	LT-T-Z	3	I1938-6a	0	448	g
+This study	2.3	171.6	-36.5	I1938-6a-LP-DIR-T	Molspin	1.65E-05	1.4934355	273	I1938-6a-LP-DIR-T-3	LT-T-Z	4	I1938-6a	0	523	g
+This study	3.9	167.4	-34.9	I1938-6a-LP-DIR-T	Molspin	1.61E-05	1.4618236	273	I1938-6a-LP-DIR-T-4	LT-T-Z	5	I1938-6a	0	598	g
+This study	1.4	169	-32.7	I1938-6a-LP-DIR-T	Molspin	1.45E-05	1.3142587	273	I1938-6a-LP-DIR-T-5	LT-T-Z	6	I1938-6a	0	673	g
+This study	1.7	168.3	-35.7	I1938-6a-LP-DIR-T	Molspin	1.37E-05	1.2420969	273	I1938-6a-LP-DIR-T-6	LT-T-Z	7	I1938-6a	0	723	g
+This study	1.5	165.3	-38.1	I1938-6a-LP-DIR-T	Molspin	1.29E-05	1.1663076	273	I1938-6a-LP-DIR-T-7	LT-T-Z	8	I1938-6a	0	773	g
+This study	1.2	171.9	-39.5	I1938-6a-LP-DIR-T	Molspin	9.73E-06	0.8812047	273	I1938-6a-LP-DIR-T-8	LT-T-Z	9	I1938-6a	0	798	g
+This study	1.3	162.7	-38.1	I1938-6a-LP-DIR-T	Molspin	1.61E-06	0.1455305	273	I1938-6a-LP-DIR-T-9	LT-T-Z	1	I1938-6a	0	813	g
+This study	2	315.5	-10.6	I1938-6a-LP-DIR-T	Molspin	2.48E-07	0.0224389	273	I1938-6a-LP-DIR-T-10	LT-T-Z	11	I1938-6a	0	828	g
+This study	2.6	180.8	-23.3	I1938-7a-LP-DIR-T	Molspin	1.91E-05	1.7278693	273	I1938-7a-LP-DIR-T-1	LT-T-Z	2	I1938-7a	0	273	g
+This study	3.4	184.6	-25.9	I1938-7a-LP-DIR-T	Molspin	1.80E-05	1.6342725	273	I1938-7a-LP-DIR-T-2	LT-T-Z	3	I1938-7a	0	448	g
+This study	1.5	186.8	-26.4	I1938-7a-LP-DIR-T	Molspin	1.79E-05	1.6173291	273	I1938-7a-LP-DIR-T-3	LT-T-Z	4	I1938-7a	0	523	g
+This study	2.1	188.1	-24.8	I1938-7a-LP-DIR-T	Molspin	1.42E-05	1.2886193	273	I1938-7a-LP-DIR-T-4	LT-T-Z	5	I1938-7a	0	598	g
+This study	2.6	187.1	-24.6	I1938-7a-LP-DIR-T	Molspin	1.32E-05	1.1961537	273	I1938-7a-LP-DIR-T-5	LT-T-Z	6	I1938-7a	0	673	g
+This study	2.1	193.3	-24	I1938-7a-LP-DIR-T	Molspin	1.23E-05	1.1185247	273	I1938-7a-LP-DIR-T-6	LT-T-Z	7	I1938-7a	0	723	g
+This study	1.1	185.5	-25.7	I1938-7a-LP-DIR-T	Molspin	1.07E-05	0.9657346	273	I1938-7a-LP-DIR-T-7	LT-T-Z	8	I1938-7a	0	773	g
+This study	2.2	189.3	-25.4	I1938-7a-LP-DIR-T	Molspin	9.87E-06	0.8938432	273	I1938-7a-LP-DIR-T-8	LT-T-Z	9	I1938-7a	0	798	g
+This study	2.9	192.1	-27.3	I1938-7a-LP-DIR-T	Molspin	7.63E-06	0.6915321	273	I1938-7a-LP-DIR-T-9	LT-T-Z	1	I1938-7a	0	813	g
+This study	2.2	203.4	-41.4	I1938-7a-LP-DIR-T	Molspin	4.42E-07	0.040003	273	I1938-7a-LP-DIR-T-10	LT-T-Z	11	I1938-7a	0	828	g
+This study	2.7	166.4	-9.2	I1938-8a-LP-DIR-T	Molspin	1.83E-05	1.6174767	273	I1938-8a-LP-DIR-T-1	LT-T-Z	2	I1938-8a	0	273	g
+This study	2.4	169.3	-14.3	I1938-8a-LP-DIR-T	Molspin	1.82E-05	1.6116896	273	I1938-8a-LP-DIR-T-2	LT-T-Z	3	I1938-8a	0	448	g
+This study	2.3	171.4	-14.1	I1938-8a-LP-DIR-T	Molspin	1.82E-05	1.6104543	273	I1938-8a-LP-DIR-T-3	LT-T-Z	4	I1938-8a	0	523	g
+This study	1.5	171.4	-14.4	I1938-8a-LP-DIR-T	Molspin	1.83E-05	1.6180841	273	I1938-8a-LP-DIR-T-4	LT-T-Z	5	I1938-8a	0	598	g
+This study	1.9	170.3	-15.1	I1938-8a-LP-DIR-T	Molspin	1.67E-05	1.4826073	273	I1938-8a-LP-DIR-T-5	LT-T-Z	6	I1938-8a	0	673	g
+This study	2.5	170.8	-14.6	I1938-8a-LP-DIR-T	Molspin	1.66E-05	1.4739032	273	I1938-8a-LP-DIR-T-6	LT-T-Z	7	I1938-8a	0	723	g
+This study	1.9	174.7	-17	I1938-8a-LP-DIR-T	Molspin	1.51E-05	1.3353989	273	I1938-8a-LP-DIR-T-7	LT-T-Z	8	I1938-8a	0	773	g
+This study	2.4	171.1	-16	I1938-8a-LP-DIR-T	Molspin	1.35E-05	1.2000571	273	I1938-8a-LP-DIR-T-8	LT-T-Z	9	I1938-8a	0	798	g
+This study	1.5	171.8	-17	I1938-8a-LP-DIR-T	Molspin	1.29E-05	1.1407181	273	I1938-8a-LP-DIR-T-9	LT-T-Z	1	I1938-8a	0	813	g
+This study	4.2	172.8	-12.8	I1938-8a-LP-DIR-T	Molspin	1.43E-06	0.1270382	273	I1938-8a-LP-DIR-T-10	LT-T-Z	11	I1938-8a	0	828	g
+This study	1	164.8	-7.3	I1938-8a-LP-DIR-T	Molspin	1.33E-06	0.1177896	273	I1938-8a-LP-DIR-T-11	LT-T-Z	12	I1938-8a	0	833	g
+This study	3.2	129.6	-46.9	I1938-8a-LP-DIR-T	Molspin	1.66E-07	0.0147002	273	I1938-8a-LP-DIR-T-12	LT-T-Z	13	I1938-8a	0	838	g
+This study	4.7	123.9	-8.4	I1938-9a-LP-DIR-T	Molspin	1.75E-05	1.546134	273	I1938-9a-LP-DIR-T-1	LT-T-Z	2	I1938-9a	0	273	g
+This study	2.9	126.2	-11.3	I1938-9a-LP-DIR-T	Molspin	1.68E-05	1.486135	273	I1938-9a-LP-DIR-T-2	LT-T-Z	3	I1938-9a	0	448	g
+This study	3.7	126.5	-13.4	I1938-9a-LP-DIR-T	Molspin	1.62E-05	1.43521	273	I1938-9a-LP-DIR-T-3	LT-T-Z	4	I1938-9a	0	523	g
+This study	5	123.4	-10.8	I1938-9a-LP-DIR-T	Molspin	1.66E-05	1.46804	273	I1938-9a-LP-DIR-T-4	LT-T-Z	5	I1938-9a	0	598	g
+This study	5.1	124.2	-11.7	I1938-9a-LP-DIR-T	Molspin	1.40E-05	1.236843	273	I1938-9a-LP-DIR-T-5	LT-T-Z	6	I1938-9a	0	673	g
+This study	3.3	125.9	-13.7	I1938-9a-LP-DIR-T	Molspin	1.39E-05	1.233826	273	I1938-9a-LP-DIR-T-6	LT-T-Z	7	I1938-9a	0	723	g
+This study	2	123.6	-12.9	I1938-9a-LP-DIR-T	Molspin	1.35E-05	1.193696	273	I1938-9a-LP-DIR-T-7	LT-T-Z	8	I1938-9a	0	773	g
+This study	3.3	120.1	-16.3	I1938-9a-LP-DIR-T	Molspin	8.27E-06	0.7325329	273	I1938-9a-LP-DIR-T-8	LT-T-Z	9	I1938-9a	0	798	g
+This study	2.9	122.2	-12.7	I1938-9a-LP-DIR-T	Molspin	8.23E-06	0.72893	273	I1938-9a-LP-DIR-T-9	LT-T-Z	1	I1938-9a	0	813	g
+This study	2	100.5	-23.8	I1938-9a-LP-DIR-T	Molspin	3.86E-07	0.0341732	273	I1938-9a-LP-DIR-T-10	LT-T-Z	11	I1938-9a	0	828	g
+This study	2.3	258.9	67.8	I1939-1A-LP-DIR-T	Molspin	1.90E-05	1.68492	273	I1939-1A-LP-DIR-T-1	LT-T-Z	2	I1939-1A	0	273	g
+This study	1.5	255.4	70.3	I1939-1A-LP-DIR-T	Molspin	1.75E-05	1.552708	273	I1939-1A-LP-DIR-T-2	LT-T-Z	3	I1939-1A	0	448	g
+This study	1.2	260.5	70.9	I1939-1A-LP-DIR-T	Molspin	1.66E-05	1.474203	273	I1939-1A-LP-DIR-T-3	LT-T-Z	4	I1939-1A	0	523	g
+This study	1.6	266.9	71.6	I1939-1A-LP-DIR-T	Molspin	1.44E-05	1.273321	273	I1939-1A-LP-DIR-T-4	LT-T-Z	5	I1939-1A	0	598	g
+This study	2.5	266.8	72.3	I1939-1A-LP-DIR-T	Molspin	1.25E-05	1.103168	273	I1939-1A-LP-DIR-T-5	LT-T-Z	6	I1939-1A	0	673	g
+This study	1.3	265.7	71.1	I1939-1A-LP-DIR-T	Molspin	1.21E-05	1.069158	273	I1939-1A-LP-DIR-T-6	LT-T-Z	7	I1939-1A	0	723	g
+This study	1.6	282.1	69.1	I1939-1A-LP-DIR-T	Molspin	1.19E-05	1.049821	273	I1939-1A-LP-DIR-T-7	LT-T-Z	8	I1939-1A	0	773	g
+This study	2.9	298.3	66.6	I1939-1A-LP-DIR-T	Molspin	9.26E-06	0.820158	273	I1939-1A-LP-DIR-T-8	LT-T-Z	9	I1939-1A	0	798	g
+This study	1.2	291.1	65.4	I1939-1A-LP-DIR-T	Molspin	8.94E-06	0.791463	273	I1939-1A-LP-DIR-T-9	LT-T-Z	1	I1939-1A	0	813	g
+This study	2	294.9	67.9	I1939-1A-LP-DIR-T	Molspin	8.74E-06	0.774074	273	I1939-1A-LP-DIR-T-10	LT-T-Z	11	I1939-1A	0	828	g
+This study	2.5	302.4	63.6	I1939-1A-LP-DIR-T	Molspin	3.69E-06	0.326782	273	I1939-1A-LP-DIR-T-11	LT-T-Z	12	I1939-1A	0	833	g
+This study	2.2	301.3	63.2	I1939-1A-LP-DIR-T	Molspin	1.30E-06	0.114705	273	I1939-1A-LP-DIR-T-12	LT-T-Z	13	I1939-1A	0	838	g
+This study	17.1	184.3	-58.8	I1939-1A-LP-DIR-T	Molspin	2.31E-08	0.002044	273	I1939-1A-LP-DIR-T-13	LT-T-Z	14	I1939-1A	0	843	g
+This study	1.2	257.3	67.9	I1939-3a-LP-DIR-T	Molspin	1.73E-05	1.5633752	273	I1939-3a-LP-DIR-T-1	LT-T-Z	2	I1939-3a	0	273	g
+This study	1	261	68.1	I1939-3a-LP-DIR-T	Molspin	1.67E-05	1.515804	273	I1939-3a-LP-DIR-T-2	LT-T-Z	3	I1939-3a	0	448	g
+This study	0.7	263.9	68.7	I1939-3a-LP-DIR-T	Molspin	1.66E-05	1.4997036	273	I1939-3a-LP-DIR-T-3	LT-T-Z	4	I1939-3a	0	523	g
+This study	0.5	270.9	68.3	I1939-3a-LP-DIR-T	Molspin	1.60E-05	1.4520092	273	I1939-3a-LP-DIR-T-4	LT-T-Z	5	I1939-3a	0	598	g
+This study	3.5	272.4	70.4	I1939-3a-LP-DIR-T	Molspin	1.33E-05	1.2055596	273	I1939-3a-LP-DIR-T-5	LT-T-Z	6	I1939-3a	0	673	g
+This study	0.4	280.7	72.6	I1939-3a-LP-DIR-T	Molspin	1.22E-05	1.1039502	273	I1939-3a-LP-DIR-T-6	LT-T-Z	7	I1939-3a	0	723	g
+This study	0.5	287.9	66.7	I1939-3a-LP-DIR-T	Molspin	1.17E-05	1.0565249	273	I1939-3a-LP-DIR-T-7	LT-T-Z	8	I1939-3a	0	773	g
+This study	1	303.2	63.9	I1939-3a-LP-DIR-T	Molspin	9.34E-06	0.8461548	273	I1939-3a-LP-DIR-T-8	LT-T-Z	9	I1939-3a	0	798	g
+This study	1.5	299.6	63.7	I1939-3a-LP-DIR-T	Molspin	9.28E-06	0.84032	273	I1939-3a-LP-DIR-T-9	LT-T-Z	1	I1939-3a	0	813	g
+This study	0.8	303	61.9	I1939-3a-LP-DIR-T	Molspin	8.07E-06	0.7307679	273	I1939-3a-LP-DIR-T-10	LT-T-Z	11	I1939-3a	0	828	g
+This study	3	312.4	48.6	I1939-3a-LP-DIR-T	Molspin	2.52E-07	0.0228621	273	I1939-3a-LP-DIR-T-11	LT-T-Z	12	I1939-3a	0	833	g
+This study	2.5	284.6	63.3	I1939-4a-LP-DIR-T	Molspin	1.31E-05	1.1583641	273	I1939-4a-LP-DIR-T-1	LT-T-Z	2	I1939-4a	0	273	g
+This study	1.6	299.6	64.2	I1939-4a-LP-DIR-T	Molspin	1.23E-05	1.0934136	273	I1939-4a-LP-DIR-T-2	LT-T-Z	3	I1939-4a	0	448	g
+This study	1.3	299.1	63.5	I1939-4a-LP-DIR-T	Molspin	1.19E-05	1.0520153	273	I1939-4a-LP-DIR-T-3	LT-T-Z	4	I1939-4a	0	523	g
+This study	1	303.9	62.9	I1939-4a-LP-DIR-T	Molspin	1.15E-05	1.0172374	273	I1939-4a-LP-DIR-T-4	LT-T-Z	5	I1939-4a	0	598	g
+This study	0.8	311.5	61.6	I1939-4a-LP-DIR-T	Molspin	1.07E-05	0.9462109	273	I1939-4a-LP-DIR-T-5	LT-T-Z	6	I1939-4a	0	673	g
+This study	1.5	308.3	61.1	I1939-4a-LP-DIR-T	Molspin	1.04E-05	0.9247151	273	I1939-4a-LP-DIR-T-6	LT-T-Z	7	I1939-4a	0	723	g
+This study	2.5	311.7	61.1	I1939-4a-LP-DIR-T	Molspin	8.74E-06	0.7741287	273	I1939-4a-LP-DIR-T-7	LT-T-Z	8	I1939-4a	0	773	g
+This study	1	318.2	53.8	I1939-4a-LP-DIR-T	Molspin	6.28E-06	0.5559744	273	I1939-4a-LP-DIR-T-8	LT-T-Z	9	I1939-4a	0	798	g
+This study	1.7	312	53	I1939-4a-LP-DIR-T	Molspin	6.11E-06	0.5415085	273	I1939-4a-LP-DIR-T-9	LT-T-Z	1	I1939-4a	0	813	g
+This study	0.8	153.5	-7.7	I1939-4a-LP-DIR-T	Molspin	1.82E-07	0.0160863	273	I1939-4a-LP-DIR-T-10	LT-T-Z	11	I1939-4a	0	828	g
+This study	1.4	242	46.3	I1939-5a-LP-DIR-T	Molspin	2.87E-05	2.5398174	273	I1939-5a-LP-DIR-T-1	LT-T-Z	2	I1939-5a	0	273	g
+This study	2.4	249.6	47.7	I1939-5a-LP-DIR-T	Molspin	2.49E-05	2.2045322	273	I1939-5a-LP-DIR-T-2	LT-T-Z	3	I1939-5a	0	448	g
+This study	2.3	251.5	48.7	I1939-5a-LP-DIR-T	Molspin	2.21E-05	1.9615518	273	I1939-5a-LP-DIR-T-3	LT-T-Z	4	I1939-5a	0	523	g
+This study	2.2	252.9	52.1	I1939-5a-LP-DIR-T	Molspin	1.95E-05	1.7287943	273	I1939-5a-LP-DIR-T-4	LT-T-Z	5	I1939-5a	0	598	g
+This study	1.4	256.4	52.1	I1939-5a-LP-DIR-T	Molspin	1.62E-05	1.4353231	273	I1939-5a-LP-DIR-T-5	LT-T-Z	6	I1939-5a	0	673	g
+This study	0.9	265.8	54.3	I1939-5a-LP-DIR-T	Molspin	1.49E-05	1.3225918	273	I1939-5a-LP-DIR-T-6	LT-T-Z	7	I1939-5a	0	723	g
+This study	2.3	262.4	53.5	I1939-5a-LP-DIR-T	Molspin	1.43E-05	1.2700309	273	I1939-5a-LP-DIR-T-7	LT-T-Z	8	I1939-5a	0	773	g
+This study	1	280.2	54.3	I1939-5a-LP-DIR-T	Molspin	1.12E-05	0.9894426	273	I1939-5a-LP-DIR-T-8	LT-T-Z	9	I1939-5a	0	798	g
+This study	1.6	289.5	49	I1939-5a-LP-DIR-T	Molspin	2.66E-06	0.2354118	273	I1939-5a-LP-DIR-T-9	LT-T-Z	1	I1939-5a	0	813	g
+This study	1.6	292.4	53.7	I1939-5a-LP-DIR-T	Molspin	2.58E-06	0.2289496	273	I1939-5a-LP-DIR-T-10	LT-T-Z	11	I1939-5a	0	828	g
+This study	5.7	350.1	7.9	I1939-5a-LP-DIR-T	Molspin	1.12E-07	0.0099302	273	I1939-5a-LP-DIR-T-11	LT-T-Z	12	I1939-5a	0	833	g
+This study	1.8	244.4	71.8	I1939-6a-LP-DIR-T	Molspin	1.91E-05	1.6876975	273	I1939-6a-LP-DIR-T-1	LT-T-Z	2	I1939-6a	0	273	g
+This study	1.8	257.1	75.7	I1939-6a-LP-DIR-T	Molspin	1.51E-05	1.3379052	273	I1939-6a-LP-DIR-T-2	LT-T-Z	3	I1939-6a	0	448	g
+This study	0.6	280.8	74.7	I1939-6a-LP-DIR-T	Molspin	1.33E-05	1.1802277	273	I1939-6a-LP-DIR-T-3	LT-T-Z	4	I1939-6a	0	523	g
+This study	0.9	287.1	72.1	I1939-6a-LP-DIR-T	Molspin	1.23E-05	1.0932158	273	I1939-6a-LP-DIR-T-4	LT-T-Z	5	I1939-6a	0	598	g
+This study	1.1	295.3	70.5	I1939-6a-LP-DIR-T	Molspin	1.14E-05	1.0063651	273	I1939-6a-LP-DIR-T-5	LT-T-Z	6	I1939-6a	0	673	g
+This study	0.5	294.6	70.2	I1939-6a-LP-DIR-T	Molspin	1.10E-05	0.9757922	273	I1939-6a-LP-DIR-T-6	LT-T-Z	7	I1939-6a	0	723	g
+This study	1.3	295.2	67.6	I1939-6a-LP-DIR-T	Molspin	9.41E-06	0.8336208	273	I1939-6a-LP-DIR-T-7	LT-T-Z	8	I1939-6a	0	773	g
+This study	1.7	313.1	63.7	I1939-6a-LP-DIR-T	Molspin	8.55E-06	0.7570888	273	I1939-6a-LP-DIR-T-8	LT-T-Z	9	I1939-6a	0	798	g
+This study	3.3	315.9	51.3	I1939-6a-LP-DIR-T	Molspin	1.52E-06	0.1346646	273	I1939-6a-LP-DIR-T-9	LT-T-Z	1	I1939-6a	0	813	g
+This study	4.6	317.9	10.8	I1939-6a-LP-DIR-T	Molspin	1.35E-07	0.0119485	273	I1939-6a-LP-DIR-T-10	LT-T-Z	11	I1939-6a	0	828	g
+This study	0.3	260.5	58.1	I1939-7a-LP-DIR-T	Molspin	1.04E-05	0.9184661	273	I1939-7a-LP-DIR-T-1	LT-T-Z	2	I1939-7a	0	273	g
+This study	1.3	257.9	65.1	I1939-7a-LP-DIR-T	Molspin	9.07E-06	0.8035403	273	I1939-7a-LP-DIR-T-2	LT-T-Z	3	I1939-7a	0	448	g
+This study	3	256.1	68.5	I1939-7a-LP-DIR-T	Molspin	8.79E-06	0.77831	273	I1939-7a-LP-DIR-T-3	LT-T-Z	4	I1939-7a	0	523	g
+This study	0.8	268	73	I1939-7a-LP-DIR-T	Molspin	8.58E-06	0.7595912	273	I1939-7a-LP-DIR-T-4	LT-T-Z	5	I1939-7a	0	598	g
+This study	0.5	269.2	67	I1939-7a-LP-DIR-T	Molspin	6.75E-06	0.5980381	273	I1939-7a-LP-DIR-T-5	LT-T-Z	6	I1939-7a	0	673	g
+This study	1.8	271.1	69.2	I1939-7a-LP-DIR-T	Molspin	6.26E-06	0.5542729	273	I1939-7a-LP-DIR-T-6	LT-T-Z	7	I1939-7a	0	723	g
+This study	0.9	267.3	64.3	I1939-7a-LP-DIR-T	Molspin	5.73E-06	0.5079043	273	I1939-7a-LP-DIR-T-7	LT-T-Z	8	I1939-7a	0	773	g
+This study	4	288.8	63.1	I1939-7a-LP-DIR-T	Molspin	4.68E-06	0.4146441	273	I1939-7a-LP-DIR-T-8	LT-T-Z	9	I1939-7a	0	798	g
+This study	3.6	289.4	45.3	I1939-7a-LP-DIR-T	Molspin	4.70E-07	0.0415939	273	I1939-7a-LP-DIR-T-9	LT-T-Z	1	I1939-7a	0	813	g
+This study	2.5	301.6	64.9	I1939-7a-LP-DIR-T	Molspin	4.31E-07	0.03818	273	I1939-7a-LP-DIR-T-10	LT-T-Z	11	I1939-7a	0	828	g
+This study	2	235.2	73.7	I1939-8a-LP-DIR-T	Molspin	9.55E-06	0.8457476	273	I1939-8a-LP-DIR-T-1	LT-T-Z	2	I1939-8a	0	273	g
+This study	0.7	241.3	71.5	I1939-8a-LP-DIR-T	Molspin	9.06E-06	0.8026334	273	I1939-8a-LP-DIR-T-2	LT-T-Z	3	I1939-8a	0	448	g
+This study	0.9	242.1	73.4	I1939-8a-LP-DIR-T	Molspin	8.63E-06	0.7642399	273	I1939-8a-LP-DIR-T-3	LT-T-Z	4	I1939-8a	0	523	g
+This study	1.4	250.4	73.3	I1939-8a-LP-DIR-T	Molspin	8.09E-06	0.7162809	273	I1939-8a-LP-DIR-T-4	LT-T-Z	5	I1939-8a	0	598	g
+This study	1.4	261.6	72.2	I1939-8a-LP-DIR-T	Molspin	7.18E-06	0.6357597	273	I1939-8a-LP-DIR-T-5	LT-T-Z	6	I1939-8a	0	673	g
+This study	1.6	261.5	72.1	I1939-8a-LP-DIR-T	Molspin	6.65E-06	0.58914	273	I1939-8a-LP-DIR-T-6	LT-T-Z	7	I1939-8a	0	723	g
+This study	0.5	272.3	67.8	I1939-8a-LP-DIR-T	Molspin	5.55E-06	0.4918402	273	I1939-8a-LP-DIR-T-7	LT-T-Z	8	I1939-8a	0	773	g
+This study	2	283.4	68.7	I1939-8a-LP-DIR-T	Molspin	5.28E-06	0.4679449	273	I1939-8a-LP-DIR-T-8	LT-T-Z	9	I1939-8a	0	798	g
+This study	1.6	281.4	67.9	I1939-8a-LP-DIR-T	Molspin	5.16E-06	0.4573874	273	I1939-8a-LP-DIR-T-9	LT-T-Z	1	I1939-8a	0	813	g
+This study	3.6	338.5	12.5	I1939-8a-LP-DIR-T	Molspin	1.40E-07	0.0124111	273	I1939-8a-LP-DIR-T-10	LT-T-Z	11	I1939-8a	0	828	g
+This study	1.8	342.9	74.3	I1939-2a-LP-DIR-T	Molspin	1.77E-05	1.602427	273	I1939-2a-LP-DIR-T-1	LT-T-Z	2	I1939-2a	0	273	g
+This study	1.7	339.1	72.3	I1939-2a-LP-DIR-T	Molspin	1.68E-05	1.5255692	273	I1939-2a-LP-DIR-T-2	LT-T-Z	3	I1939-2a	0	448	g
+This study	1.1	347.2	71.5	I1939-2a-LP-DIR-T	Molspin	1.57E-05	1.4196464	273	I1939-2a-LP-DIR-T-3	LT-T-Z	4	I1939-2a	0	523	g
+This study	1.9	353.1	69.1	I1939-2a-LP-DIR-T	Molspin	1.54E-05	1.3914659	273	I1939-2a-LP-DIR-T-4	LT-T-Z	5	I1939-2a	0	598	g
+This study	2.7	354.1	69.7	I1939-2a-LP-DIR-T	Molspin	1.28E-05	1.1549307	273	I1939-2a-LP-DIR-T-5	LT-T-Z	6	I1939-2a	0	673	g
+This study	2.3	351.9	65.8	I1939-2a-LP-DIR-T	Molspin	1.22E-05	1.1095564	273	I1939-2a-LP-DIR-T-6	LT-T-Z	7	I1939-2a	0	723	g
+This study	1.9	345	65.8	I1939-2a-LP-DIR-T	Molspin	1.19E-05	1.0780883	273	I1939-2a-LP-DIR-T-7	LT-T-Z	8	I1939-2a	0	773	g
+This study	3.6	350.3	64.6	I1939-2a-LP-DIR-T	Molspin	1.16E-05	1.0487908	273	I1939-2a-LP-DIR-T-8	LT-T-Z	9	I1939-2a	0	798	g
+This study	2.4	350.6	62.4	I1939-2a-LP-DIR-T	Molspin	1.15E-05	1.0390565	273	I1939-2a-LP-DIR-T-9	LT-T-Z	1	I1939-2a	0	813	g
+This study	1.9	353	59.1	I1939-2a-LP-DIR-T	Molspin	9.79E-06	0.8868232	273	I1939-2a-LP-DIR-T-10	LT-T-Z	11	I1939-2a	0	828	g
+This study	3	352.6	52.6	I1939-2a-LP-DIR-T	Molspin	2.64E-06	0.2388429	273	I1939-2a-LP-DIR-T-11	LT-T-Z	12	I1939-2a	0	833	g
+This study	3.9	345.9	50.6	I1939-2a-LP-DIR-T	Molspin	4.10E-07	0.0371247	273	I1939-2a-LP-DIR-T-12	LT-T-Z	13	I1939-2a	0	838	g
+This study	3	46.3	9.5	I222-1-LP-DIR-T	Molspin	1.02E-08	0.000887	273	I222-1-LP-DIR-T-1	LT-T-Z	2	I222-1	0	273	g
+This study	2	54.8	9.8	I222-1-LP-DIR-T	Molspin	3.96E-09	0.000344	273	I222-1-LP-DIR-T-2	LT-T-Z	3	I222-1	0	448	g
+This study	11	54.6	9	I222-1-LP-DIR-T	Molspin	3.59E-09	0.000312	273	I222-1-LP-DIR-T-3	LT-T-Z	4	I222-1	0	523	g
+This study	2	58.4	9.1	I222-1-LP-DIR-T	Molspin	3.22E-09	0.00028	273	I222-1-LP-DIR-T-4	LT-T-Z	5	I222-1	0	603	g
+This study	3	53.2	4.7	I222-1-LP-DIR-T	Molspin	1.74E-09	0.000151	273	I222-1-LP-DIR-T-5	LT-T-Z	6	I222-1	0	673	g
+This study	5	46.5	4.1	I222-1-LP-DIR-T	Molspin	1.32E-09	0.000115	273	I222-1-LP-DIR-T-6	LT-T-Z	7	I222-1	0	723	g
+This study	4	50.6	7.4	I222-1-LP-DIR-T	Molspin	1.16E-09	0.000101	273	I222-1-LP-DIR-T-7	LT-T-Z	8	I222-1	0	773	g
+This study	4	49.5	7.2	I222-1-LP-DIR-T	Molspin	1.22E-09	0.000106	273	I222-1-LP-DIR-T-8	LT-T-Z	9	I222-1	0	798	g
+This study	6	44	10.6	I222-1-LP-DIR-T	Molspin	7.59E-10	6.60E-05	273	I222-1-LP-DIR-T-9	LT-T-Z	1	I222-1	0	818	g
+This study	20	92.5	-38.7	I222-1-LP-DIR-T	Molspin	1.61E-10	1.40E-05	273	I222-1-LP-DIR-T-10	LT-T-Z	11	I222-1	0	838	g
+This study	4	70.1	5.2	i222-2-LP-DIR-T	Molspin	9.66E-09	0.00084	273	i222-2-LP-DIR-T-1	LT-T-Z	2	i222-2	0	273	g
+This study	6	70.3	5.9	i222-2-LP-DIR-T	Molspin	6.04E-09	0.000525	273	i222-2-LP-DIR-T-2	LT-T-Z	3	i222-2	0	448	g
+This study	3	80.3	-11	i222-2-LP-DIR-T	Molspin	3.50E-09	0.000304	273	i222-2-LP-DIR-T-3	LT-T-Z	4	i222-2	0	523	g
+This study	3	70.6	4.1	i222-2-LP-DIR-T	Molspin	3.12E-09	0.000271	273	i222-2-LP-DIR-T-4	LT-T-Z	5	i222-2	0	603	g
+This study	4	71.8	-7.8	i222-2-LP-DIR-T	Molspin	1.78E-09	0.000155	273	i222-2-LP-DIR-T-5	LT-T-Z	6	i222-2	0	673	g
+This study	5	75.5	-13.4	i222-2-LP-DIR-T	Molspin	1.15E-09	0.0001	273	i222-2-LP-DIR-T-6	LT-T-Z	7	i222-2	0	723	g
+This study	4	78.6	-7.1	i222-2-LP-DIR-T	Molspin	1.20E-09	0.000104	273	i222-2-LP-DIR-T-7	LT-T-Z	8	i222-2	0	773	g
+This study	3	67.4	-1.9	i222-2-LP-DIR-T	Molspin	1.37E-09	0.000119	273	i222-2-LP-DIR-T-8	LT-T-Z	9	i222-2	0	798	g
+This study	4	82.1	-11.1	i222-2-LP-DIR-T	Molspin	8.97E-10	7.80E-05	273	i222-2-LP-DIR-T-9	LT-T-Z	1	i222-2	0	818	g
+This study	12	264.8	-61.7	i222-2-LP-DIR-T	Molspin	2.07E-10	1.80E-05	273	i222-2-LP-DIR-T-10	LT-T-Z	11	i222-2	0	838	g
+This study	3	72.2	7	i222-3-LP-DIR-T	Molspin	9.27E-09	0.000806	273	i222-3-LP-DIR-T-1	LT-T-Z	2	i222-3	0	273	g
+This study	2	58.2	8.1	i222-3-LP-DIR-T	Molspin	4.21E-09	0.000366	273	i222-3-LP-DIR-T-2	LT-T-Z	3	i222-3	0	448	g
+This study	3	58	7.7	i222-3-LP-DIR-T	Molspin	1.98E-09	0.000172	273	i222-3-LP-DIR-T-3	LT-T-Z	4	i222-3	0	523	g
+This study	4	53	8.3	i222-3-LP-DIR-T	Molspin	1.54E-09	0.000134	273	i222-3-LP-DIR-T-4	LT-T-Z	5	i222-3	0	603	g
+This study	3	45.8	9.3	i222-3-LP-DIR-T	Molspin	1.28E-09	0.000111	273	i222-3-LP-DIR-T-5	LT-T-Z	6	i222-3	0	673	g
+This study	6	49.7	8.7	i222-3-LP-DIR-T	Molspin	5.40E-10	4.70E-05	273	i222-3-LP-DIR-T-6	LT-T-Z	7	i222-3	0	723	g
+This study	9	53	6.2	i222-3-LP-DIR-T	Molspin	4.72E-10	4.10E-05	273	i222-3-LP-DIR-T-7	LT-T-Z	8	i222-3	0	773	g
+This study	5	52.3	3.2	i222-3-LP-DIR-T	Molspin	5.17E-10	4.50E-05	273	i222-3-LP-DIR-T-8	LT-T-Z	9	i222-3	0	798	g
+This study	4	62.6	2.1	i222-3-LP-DIR-T	Molspin	4.83E-10	4.20E-05	273	i222-3-LP-DIR-T-9	LT-T-Z	1	i222-3	0	818	g
+This study	10	292.6	79.6	i222-3-LP-DIR-T	Molspin	2.42E-10	2.10E-05	273	i222-3-LP-DIR-T-10	LT-T-Z	11	i222-3	0	838	g
+This study	2	104.6	-18	i222-4-LP-DIR-T	Molspin	6.61E-09	0.000575	273	i222-4-LP-DIR-T-1	LT-T-Z	2	i222-4	0	273	g
+This study	2	83.7	-13.8	i222-4-LP-DIR-T	Molspin	7.39E-09	0.000643	273	i222-4-LP-DIR-T-2	LT-T-Z	3	i222-4	0	448	g
+This study	2	80.3	-12.4	i222-4-LP-DIR-T	Molspin	6.85E-09	0.000596	273	i222-4-LP-DIR-T-3	LT-T-Z	4	i222-4	0	523	g
+This study	1	64.4	-9.6	i222-4-LP-DIR-T	Molspin	6.33E-09	0.00055	273	i222-4-LP-DIR-T-4	LT-T-Z	5	i222-4	0	603	g
+This study	2	60.6	-14.8	i222-4-LP-DIR-T	Molspin	4.67E-09	0.000406	273	i222-4-LP-DIR-T-5	LT-T-Z	6	i222-4	0	673	g
+This study	2	60.6	-14.6	i222-4-LP-DIR-T	Molspin	4.47E-09	0.000389	273	i222-4-LP-DIR-T-6	LT-T-Z	7	i222-4	0	723	g
+This study	2	55.6	-14.3	i222-4-LP-DIR-T	Molspin	4.09E-09	0.000356	273	i222-4-LP-DIR-T-7	LT-T-Z	8	i222-4	0	773	g
+This study	2	56.1	-10.7	i222-4-LP-DIR-T	Molspin	3.80E-09	0.00033	273	i222-4-LP-DIR-T-8	LT-T-Z	9	i222-4	0	798	g
+This study	2	54.6	-9.8	i222-4-LP-DIR-T	Molspin	3.29E-09	0.000286	273	i222-4-LP-DIR-T-9	LT-T-Z	1	i222-4	0	818	g
+This study	2	39.8	-6.3	i222-4-LP-DIR-T	Molspin	1.83E-09	0.000159	273	i222-4-LP-DIR-T-10	LT-T-Z	11	i222-4	0	838	g
+This study	12	101.5	-38.4	i222-4-LP-DIR-T	Molspin	2.07E-10	1.80E-05	273	i222-4-LP-DIR-T-11	LT-T-Z	12	i222-4	0	863	g
+This study	2	207.2	29.1	i222-5-LP-DIR-T	Molspin	7.85E-09	0.000683	273	i222-5-LP-DIR-T-1	LT-T-Z	2	i222-5	0	273	g
+This study	2	157.6	-40.3	i222-5-LP-DIR-T	Molspin	4.69E-09	0.000408	273	i222-5-LP-DIR-T-2	LT-T-Z	3	i222-5	0	448	g
+This study	3	138.7	-47.1	i222-5-LP-DIR-T	Molspin	3.70E-09	0.000322	273	i222-5-LP-DIR-T-3	LT-T-Z	4	i222-5	0	523	g
+This study	2	95.5	-46.2	i222-5-LP-DIR-T	Molspin	2.52E-09	0.000219	273	i222-5-LP-DIR-T-4	LT-T-Z	5	i222-5	0	603	g
+This study	3	106.5	-25.8	i222-5-LP-DIR-T	Molspin	2.58E-09	0.000224	273	i222-5-LP-DIR-T-5	LT-T-Z	6	i222-5	0	673	g
+This study	3	96.6	-23	i222-5-LP-DIR-T	Molspin	2.27E-09	0.000197	273	i222-5-LP-DIR-T-6	LT-T-Z	7	i222-5	0	723	g
+This study	2	78.3	-19.4	i222-5-LP-DIR-T	Molspin	2.00E-09	0.000174	273	i222-5-LP-DIR-T-7	LT-T-Z	8	i222-5	0	773	g
+This study	2	71.1	-18.3	i222-5-LP-DIR-T	Molspin	1.74E-09	0.000151	273	i222-5-LP-DIR-T-8	LT-T-Z	9	i222-5	0	798	g
+This study	5	67.2	-16.7	i222-5-LP-DIR-T	Molspin	1.06E-09	9.20E-05	273	i222-5-LP-DIR-T-9	LT-T-Z	1	i222-5	0	818	g
+This study	4	22.1	-7.4	i222-6-LP-DIR-T	Molspin	8.20E-09	0.000713	273	i222-6-LP-DIR-T-1	LT-T-Z	2	i222-6	0	273	g
+This study	2	37.1	-10.4	i222-6-LP-DIR-T	Molspin	7.90E-09	0.000687	273	i222-6-LP-DIR-T-2	LT-T-Z	3	i222-6	0	448	g
+This study	2	38	-9.8	i222-6-LP-DIR-T	Molspin	6.65E-09	0.000578	273	i222-6-LP-DIR-T-3	LT-T-Z	4	i222-6	0	523	g
+This study	2	45.8	-9.8	i222-6-LP-DIR-T	Molspin	5.32E-09	0.000463	273	i222-6-LP-DIR-T-4	LT-T-Z	5	i222-6	0	603	g
+This study	3	44.5	-14.4	i222-6-LP-DIR-T	Molspin	3.59E-09	0.000312	273	i222-6-LP-DIR-T-5	LT-T-Z	6	i222-6	0	673	g
+This study	3	57.1	-28.5	i222-6-LP-DIR-T	Molspin	2.44E-09	0.000212	273	i222-6-LP-DIR-T-6	LT-T-Z	7	i222-6	0	723	g
+This study	4	61.3	-27.1	i222-6-LP-DIR-T	Molspin	1.66E-09	0.000144	273	i222-6-LP-DIR-T-7	LT-T-Z	8	i222-6	0	773	g
+This study	4	60.9	-25.5	i222-6-LP-DIR-T	Molspin	1.56E-09	0.000136	273	i222-6-LP-DIR-T-8	LT-T-Z	9	i222-6	0	798	g
+This study	4	66.5	-25.3	i222-6-LP-DIR-T	Molspin	8.39E-10	7.30E-05	273	i222-6-LP-DIR-T-9	LT-T-Z	1	i222-6	0	818	g
+This study	19	69.3	-22.1	i222-6-LP-DIR-T	Molspin	2.07E-10	1.80E-05	273	i222-6-LP-DIR-T-10	LT-T-Z	11	i222-6	0	838	g
+This study	1	170.4	-67.2	I1936-2B-LP-DIR-AF	Molspin	1.00E-07	0.00886	273	I1936-2B-LP-DIR-AF-1	LT-AF-Z	2	I1936-2B	0	273	g
+This study	1	167.8	-67.4	I1936-2B-LP-DIR-AF	Molspin	9.87E-08	0.008744	273	I1936-2B-LP-DIR-AF-2	LT-AF-Z	3	I1936-2B	0.0025	273	g
+This study	1	168.2	-67.7	I1936-2B-LP-DIR-AF	Molspin	9.89E-08	0.008763	273	I1936-2B-LP-DIR-AF-3	LT-AF-Z	4	I1936-2B	0.005	273	g
+This study	1	163.3	-67.6	I1936-2B-LP-DIR-AF	Molspin	9.89E-08	0.008758	273	I1936-2B-LP-DIR-AF-4	LT-AF-Z	5	I1936-2B	0.0075	273	g
+This study	1	167.9	-67.7	I1936-2B-LP-DIR-AF	Molspin	9.76E-08	0.008648	273	I1936-2B-LP-DIR-AF-5	LT-AF-Z	6	I1936-2B	0.01	273	g
+This study	1	166.7	-69.1	I1936-2B-LP-DIR-AF	Molspin	1.02E-07	0.008991	273	I1936-2B-LP-DIR-AF-6	LT-AF-Z	7	I1936-2B	0.012	273	g
+This study	1	164.5	-68	I1936-2B-LP-DIR-AF	Molspin	9.95E-08	0.008811	273	I1936-2B-LP-DIR-AF-7	LT-AF-Z	8	I1936-2B	0.015	273	g
+This study	1	165.3	-67.7	I1936-2B-LP-DIR-AF	Molspin	9.59E-08	0.008496	273	I1936-2B-LP-DIR-AF-8	LT-AF-Z	9	I1936-2B	0.017	273	g
+This study	1	163.7	-69	I1936-2B-LP-DIR-AF	Molspin	1.03E-07	0.009081	273	I1936-2B-LP-DIR-AF-9	LT-AF-Z	1	I1936-2B	0.02	273	g
+This study	1	171.3	-69.6	I1936-2B-LP-DIR-AF	Molspin	9.48E-08	0.008395	273	I1936-2B-LP-DIR-AF-10	LT-AF-Z	11	I1936-2B	0.025	273	g
+This study	1	111.6	-60.4	I1936-2B-LP-DIR-AF	Molspin	1.12E-07	0.009903	273	I1936-2B-LP-DIR-AF-11	LT-AF-Z	12	I1936-2B	0.03	273	g
+This study	1	170.1	-69.7	I1936-2B-LP-DIR-AF	Molspin	1.03E-07	0.009086	273	I1936-2B-LP-DIR-AF-12	LT-AF-Z	13	I1936-2B	0.03	273	g
+This study	1	172.3	-68.2	I1936-2B-LP-DIR-AF	Molspin	9.49E-08	0.00841	273	I1936-2B-LP-DIR-AF-13	LT-AF-Z	14	I1936-2B	0.04	273	g
+This study	1	163.5	-64.6	I1936-2B-LP-DIR-AF	Molspin	7.81E-08	0.006916	273	I1936-2B-LP-DIR-AF-14	LT-AF-Z	15	I1936-2B	0.05	273	g
+This study	1	175.6	-56.4	I1936-2B-LP-DIR-AF	Molspin	6.68E-08	0.005916	273	I1936-2B-LP-DIR-AF-15	LT-AF-Z	16	I1936-2B	0.06	273	g
+This study	1	169.2	-58.4	I1936-2B-LP-DIR-AF	Molspin	6.54E-08	0.005789	273	I1936-2B-LP-DIR-AF-16	LT-AF-Z	17	I1936-2B	0.07	273	g
+This study	1	162.3	-54.6	I1936-2B-LP-DIR-AF	Molspin	5.90E-08	0.005224	273	I1936-2B-LP-DIR-AF-17	LT-AF-Z	18	I1936-2B	0.08	273	g
+This study	1	143.3	-22.9	I1936-6B-LP-DIR-AF	Molspin	1.36E-07	0.012034	273	I1936-6B-LP-DIR-AF-1	LT-AF-Z	2	I1936-6B	0	273	g
+This study	1	133.2	-23.2	I1936-6B-LP-DIR-AF	Molspin	1.35E-07	0.011943	273	I1936-6B-LP-DIR-AF-2	LT-AF-Z	3	I1936-6B	0.0025	273	g
+This study	1	135.1	-23.2	I1936-6B-LP-DIR-AF	Molspin	1.34E-07	0.011895	273	I1936-6B-LP-DIR-AF-3	LT-AF-Z	4	I1936-6B	0.005	273	g
+This study	1	133	-23.2	I1936-6B-LP-DIR-AF	Molspin	1.34E-07	0.011902	273	I1936-6B-LP-DIR-AF-4	LT-AF-Z	5	I1936-6B	0.0075	273	g
+This study	1	132.2	-23.2	I1936-6B-LP-DIR-AF	Molspin	1.34E-07	0.011904	273	I1936-6B-LP-DIR-AF-5	LT-AF-Z	6	I1936-6B	0.01	273	g
+This study	1	134.4	-23.4	I1936-6B-LP-DIR-AF	Molspin	1.33E-07	0.011801	273	I1936-6B-LP-DIR-AF-6	LT-AF-Z	7	I1936-6B	0.012	273	g
+This study	1	132.2	-24.2	I1936-6B-LP-DIR-AF	Molspin	1.35E-07	0.011989	273	I1936-6B-LP-DIR-AF-7	LT-AF-Z	8	I1936-6B	0.015	273	g
+This study	1	133.2	-23.1	I1936-6B-LP-DIR-AF	Molspin	1.36E-07	0.012089	273	I1936-6B-LP-DIR-AF-8	LT-AF-Z	9	I1936-6B	0.017	273	g
+This study	1	132.2	-24	I1936-6B-LP-DIR-AF	Molspin	1.37E-07	0.012133	273	I1936-6B-LP-DIR-AF-9	LT-AF-Z	1	I1936-6B	0.02	273	g
+This study	1	133.1	-22.4	I1936-6B-LP-DIR-AF	Molspin	1.35E-07	0.011919	273	I1936-6B-LP-DIR-AF-10	LT-AF-Z	11	I1936-6B	0.025	273	g
+This study	1	134.1	-18.1	I1936-6B-LP-DIR-AF	Molspin	1.35E-07	0.011995	273	I1936-6B-LP-DIR-AF-11	LT-AF-Z	12	I1936-6B	0.03	273	g
+This study	1	130.7	-21.2	I1936-6B-LP-DIR-AF	Molspin	1.33E-07	0.011821	273	I1936-6B-LP-DIR-AF-12	LT-AF-Z	13	I1936-6B	0.04	273	g
+This study	1	131.9	-20.1	I1936-6B-LP-DIR-AF	Molspin	1.23E-07	0.010901	273	I1936-6B-LP-DIR-AF-13	LT-AF-Z	14	I1936-6B	0.05	273	g
+This study	1	129.9	-18	I1936-6B-LP-DIR-AF	Molspin	1.07E-07	0.009494	273	I1936-6B-LP-DIR-AF-14	LT-AF-Z	15	I1936-6B	0.06	273	g
+This study	1	131	-14.4	I1936-6B-LP-DIR-AF	Molspin	9.79E-08	0.008673	273	I1936-6B-LP-DIR-AF-15	LT-AF-Z	16	I1936-6B	0.07	273	g
+This study	1	130.9	-15.3	I1936-6B-LP-DIR-AF	Molspin	8.80E-08	0.007792	273	I1936-6B-LP-DIR-AF-16	LT-AF-Z	17	I1936-6B	0.08	273	g
+This study	2	217	-43	1936-8b-LP-DIR-AF	Molspin	1.23E-07	0.01062	273	1936-8b-LP-DIR-AF-1	LT-AF-Z	2	1936-8b	0	273	g
+This study	3	219.2	-44.4	1936-8b-LP-DIR-AF	Molspin	1.26E-07	0.010897	273	1936-8b-LP-DIR-AF-2	LT-AF-Z	3	1936-8b	0.0025	273	g
+This study	2	219.4	-42.5	1936-8b-LP-DIR-AF	Molspin	1.24E-07	0.010684	273	1936-8b-LP-DIR-AF-3	LT-AF-Z	4	1936-8b	0.005	273	g
+This study	2	219.9	-42.8	1936-8b-LP-DIR-AF	Molspin	1.25E-07	0.010793	273	1936-8b-LP-DIR-AF-4	LT-AF-Z	5	1936-8b	0.0075	273	g
+This study	1	220.2	-41.6	1936-8b-LP-DIR-AF	Molspin	1.24E-07	0.01071	273	1936-8b-LP-DIR-AF-5	LT-AF-Z	6	1936-8b	0.01	273	g
+This study	2	216.9	-41.9	1936-8b-LP-DIR-AF	Molspin	1.24E-07	0.010757	273	1936-8b-LP-DIR-AF-6	LT-AF-Z	7	1936-8b	0.0125	273	g
+This study	2	219.6	-41.8	1936-8b-LP-DIR-AF	Molspin	1.22E-07	0.010557	273	1936-8b-LP-DIR-AF-7	LT-AF-Z	8	1936-8b	0.015	273	g
+This study	2	221.6	-42.3	1936-8b-LP-DIR-AF	Molspin	1.20E-07	0.010406	273	1936-8b-LP-DIR-AF-8	LT-AF-Z	9	1936-8b	0.02	273	g
+This study	2	220.4	-40.6	1936-8b-LP-DIR-AF	Molspin	1.21E-07	0.010437	273	1936-8b-LP-DIR-AF-9	LT-AF-Z	1	1936-8b	0.025	273	g
+This study	1	220.3	-42.2	1936-8b-LP-DIR-AF	Molspin	1.20E-07	0.01041	273	1936-8b-LP-DIR-AF-10	LT-AF-Z	11	1936-8b	0.03	273	g
+This study	1	218.6	-42.3	1936-8b-LP-DIR-AF	Molspin	1.25E-07	0.010795	273	1936-8b-LP-DIR-AF-11	LT-AF-Z	12	1936-8b	0.035	273	g
+This study	2	220.3	-40.1	1936-8b-LP-DIR-AF	Molspin	1.16E-07	0.010043	273	1936-8b-LP-DIR-AF-12	LT-AF-Z	13	1936-8b	0.04	273	g
+This study	2	222.7	-41.4	1936-8b-LP-DIR-AF	Molspin	1.09E-07	0.00943	273	1936-8b-LP-DIR-AF-13	LT-AF-Z	14	1936-8b	0.05	273	g
+This study	2	216.3	-37.6	1936-8b-LP-DIR-AF	Molspin	1.04E-07	0.008959	273	1936-8b-LP-DIR-AF-14	LT-AF-Z	15	1936-8b	0.06	273	g
+This study	1	220.8	-35.6	1936-8b-LP-DIR-AF	Molspin	8.96E-08	0.007754	273	1936-8b-LP-DIR-AF-15	LT-AF-Z	16	1936-8b	0.07	273	g
+This study	1	219.4	-32.6	1936-8b-LP-DIR-AF	Molspin	7.69E-08	0.006651	273	1936-8b-LP-DIR-AF-16	LT-AF-Z	17	1936-8b	0.08	273	g
+This study	2	218.9	-31.5	1936-8b-LP-DIR-AF	Molspin	6.92E-08	0.005986	273	1936-8b-LP-DIR-AF-17	LT-AF-Z	18	1936-8b	0.09	273	g
+This study	2	225.1	-30.5	1936-8b-LP-DIR-AF	Molspin	6.91E-08	0.005977	273	1936-8b-LP-DIR-AF-18	LT-AF-Z	19	1936-8b	0.1	273	g
+This study	1.7	304.8	42.8	I1937-2B-LP-DIR-AF	Molspin	6.12E-06	0.674099	273	I1937-2B-LP-DIR-AF-1	LT-AF-Z	2	I1937-2B	0	273	g
+This study	3	310.1	40.5	I1937-2B-LP-DIR-AF	Molspin	5.98E-06	0.658362	273	I1937-2B-LP-DIR-AF-2	LT-AF-Z	3	I1937-2B	0.025	273	g
+This study	4	321.6	41.9	I1937-2B-LP-DIR-AF	Molspin	5.25E-06	0.578023	273	I1937-2B-LP-DIR-AF-3	LT-AF-Z	4	I1937-2B	0.05	273	g
+This study	1.5	333.6	39.8	I1937-2B-LP-DIR-AF	Molspin	4.56E-06	0.501855	273	I1937-2B-LP-DIR-AF-4	LT-AF-Z	5	I1937-2B	0.075	273	g
+This study	4.4	345	38.7	I1937-2B-LP-DIR-AF	Molspin	4.02E-06	0.443219	273	I1937-2B-LP-DIR-AF-5	LT-AF-Z	6	I1937-2B	0.1	273	g
+This study	2.9	353.6	35.3	I1937-2B-LP-DIR-AF	Molspin	3.64E-06	0.400568	273	I1937-2B-LP-DIR-AF-6	LT-AF-Z	7	I1937-2B	0.125	273	g
+This study	2.1	358.7	32.5	I1937-2B-LP-DIR-AF	Molspin	3.32E-06	0.365812	273	I1937-2B-LP-DIR-AF-7	LT-AF-Z	8	I1937-2B	0.15	273	g
+This study	3.4	359.5	30.2	I1937-2B-LP-DIR-AF	Molspin	3.04E-06	0.334995	273	I1937-2B-LP-DIR-AF-8	LT-AF-Z	9	I1937-2B	0.175	273	g
+This study	2.7	4.6	30	I1937-2B-LP-DIR-AF	Molspin	2.94E-06	0.323407	273	I1937-2B-LP-DIR-AF-9	LT-AF-Z	1	I1937-2B	0.2	273	g
+This study	4.4	1.9	29	I1937-2B-LP-DIR-AF	Molspin	2.78E-06	0.305949	273	I1937-2B-LP-DIR-AF-10	LT-AF-Z	11	I1937-2B	0.25	273	g
+This study	2.8	2.3	29.8	I1937-2B-LP-DIR-AF	Molspin	2.54E-06	0.280198	273	I1937-2B-LP-DIR-AF-11	LT-AF-Z	12	I1937-2B	0.3	273	g
+This study	2.9	1.9	29.7	I1937-2B-LP-DIR-AF	Molspin	2.35E-06	0.258486	273	I1937-2B-LP-DIR-AF-12	LT-AF-Z	13	I1937-2B	0.4	273	g
+This study	1	356.2	32.9	I1937-2B-LP-DIR-AF	Molspin	2.03E-06	0.2238	273	I1937-2B-LP-DIR-AF-13	LT-AF-Z	14	I1937-2B	0.5	273	g
+This study	1	353.8	32.2	I1937-2B-LP-DIR-AF	Molspin	1.95E-06	0.2148	273	I1937-2B-LP-DIR-AF-14	LT-AF-Z	15	I1937-2B	0.6	273	g
+This study	1	355.5	33.7	I1937-2B-LP-DIR-AF	Molspin	1.84E-06	0.2025	273	I1937-2B-LP-DIR-AF-15	LT-AF-Z	16	I1937-2B	0.7	273	g
+This study	2.7	293	19.6	I1937-4B-LP-DIR-AF	Molspin	1.05E-05	0.933927	273	I1937-4B-LP-DIR-AF-1	LT-AF-Z	2	I1937-4B	0	273	g
+This study	4.3	297.4	18.7	I1937-4B-LP-DIR-AF	Molspin	9.67E-06	0.85672	273	I1937-4B-LP-DIR-AF-2	LT-AF-Z	3	I1937-4B	0.025	273	g
+This study	4	302.4	18.1	I1937-4B-LP-DIR-AF	Molspin	8.76E-06	0.775645	273	I1937-4B-LP-DIR-AF-3	LT-AF-Z	4	I1937-4B	0.05	273	g
+This study	4.5	311.9	17.4	I1937-4B-LP-DIR-AF	Molspin	7.88E-06	0.698382	273	I1937-4B-LP-DIR-AF-4	LT-AF-Z	5	I1937-4B	0.075	273	g
+This study	3.8	320.1	15.8	I1937-4B-LP-DIR-AF	Molspin	6.85E-06	0.606972	273	I1937-4B-LP-DIR-AF-5	LT-AF-Z	6	I1937-4B	0.1	273	g
+This study	4.7	324.7	14.7	I1937-4B-LP-DIR-AF	Molspin	6.51E-06	0.577024	273	I1937-4B-LP-DIR-AF-6	LT-AF-Z	7	I1937-4B	0.125	273	g
+This study	3	333.8	14.3	I1937-4B-LP-DIR-AF	Molspin	5.66E-06	0.501398	273	I1937-4B-LP-DIR-AF-7	LT-AF-Z	8	I1937-4B	0.15	273	g
+This study	2.1	341.6	13.3	I1937-4B-LP-DIR-AF	Molspin	4.97E-06	0.440263	273	I1937-4B-LP-DIR-AF-8	LT-AF-Z	9	I1937-4B	0.175	273	g
+This study	1	334	15.6	I1937-4B-LP-DIR-AF	Molspin	4.96E-06	0.4389	273	I1937-4B-LP-DIR-AF-9	LT-AF-Z	1	I1937-4B	0.2	273	g
+This study	1	334.8	15.7	I1937-4B-LP-DIR-AF	Molspin	4.95E-06	0.4387	273	I1937-4B-LP-DIR-AF-10	LT-AF-Z	11	I1937-4B	0.25	273	g
+This study	1	337.6	16	I1937-4B-LP-DIR-AF	Molspin	4.62E-06	0.4096	273	I1937-4B-LP-DIR-AF-11	LT-AF-Z	12	I1937-4B	0.3	273	g
+This study	1	334.9	16.8	I1937-4B-LP-DIR-AF	Molspin	4.53E-06	0.4014	273	I1937-4B-LP-DIR-AF-12	LT-AF-Z	13	I1937-4B	0.4	273	g
+This study	1	333.6	18.8	I1937-4B-LP-DIR-AF	Molspin	3.54E-06	0.3137	273	I1937-4B-LP-DIR-AF-13	LT-AF-Z	14	I1937-4B	0.5	273	g
+This study	1	332.2	20.2	I1937-4B-LP-DIR-AF	Molspin	3.20E-06	0.2832	273	I1937-4B-LP-DIR-AF-14	LT-AF-Z	15	I1937-4B	0.6	273	g
+This study	1	336.4	22.8	I1937-4B-LP-DIR-AF	Molspin	2.97E-06	0.2629	273	I1937-4B-LP-DIR-AF-15	LT-AF-Z	16	I1937-4B	0.7	273	g
+This study	5.9	316.9	25.5	I1937-6z-LP-DIR-AF	Molspin	3.74E-06	0.6344812	273	I1937-6z-LP-DIR-AF-1	LT-AF-Z	2	I1937-6z	0	273	g
+This study	1.2	321.7	26.6	I1937-6z-LP-DIR-AF	Molspin	3.61E-06	0.6132773	273	I1937-6z-LP-DIR-AF-2	LT-AF-Z	3	I1937-6z	0.025	273	g
+This study	0.7	328.4	24.8	I1937-6z-LP-DIR-AF	Molspin	3.49E-06	0.592096	273	I1937-6z-LP-DIR-AF-3	LT-AF-Z	4	I1937-6z	0.05	273	g
+This study	2.5	337	23.9	I1937-6z-LP-DIR-AF	Molspin	3.04E-06	0.5169108	273	I1937-6z-LP-DIR-AF-4	LT-AF-Z	5	I1937-6z	0.075	273	g
+This study	1	344.3	23.3	I1937-6z-LP-DIR-AF	Molspin	2.68E-06	0.4553923	273	I1937-6z-LP-DIR-AF-5	LT-AF-Z	6	I1937-6z	0.1	273	g
+This study	2.4	352	22.1	I1937-6z-LP-DIR-AF	Molspin	2.45E-06	0.4155676	273	I1937-6z-LP-DIR-AF-6	LT-AF-Z	7	I1937-6z	0.125	273	g
+This study	1.1	356.7	21.1	I1937-6z-LP-DIR-AF	Molspin	2.23E-06	0.3788398	273	I1937-6z-LP-DIR-AF-7	LT-AF-Z	8	I1937-6z	0.15	273	g
+This study	0.6	0.3	19.8	I1937-6z-LP-DIR-AF	Molspin	1.98E-06	0.3358618	273	I1937-6z-LP-DIR-AF-8	LT-AF-Z	9	I1937-6z	0.175	273	g
+This study	1.8	272.6	23.5	i1937-8b-LP-DIR-AF	Molspin	6.22E-06	0.5636544	273	i1937-8b-LP-DIR-AF-1	LT-AF-Z	2	i1937-8b	0	273	g
+This study	5.8	273	18.2	i1937-8b-LP-DIR-AF	Molspin	6.31E-06	0.5717731	273	i1937-8b-LP-DIR-AF-2	LT-AF-Z	3	i1937-8b	0.025	273	g
+This study	2	277.1	18.2	i1937-8b-LP-DIR-AF	Molspin	5.55E-06	0.5024233	273	i1937-8b-LP-DIR-AF-3	LT-AF-Z	4	i1937-8b	0.05	273	g
+This study	2.2	289.1	17.4	i1937-8b-LP-DIR-AF	Molspin	4.80E-06	0.4347133	273	i1937-8b-LP-DIR-AF-4	LT-AF-Z	5	i1937-8b	0.075	273	g
+This study	3.8	297.8	14.3	i1937-8b-LP-DIR-AF	Molspin	4.13E-06	0.373829	273	i1937-8b-LP-DIR-AF-5	LT-AF-Z	6	i1937-8b	0.1	273	g
+This study	4.2	309	13.9	i1937-8b-LP-DIR-AF	Molspin	3.40E-06	0.3077984	273	i1937-8b-LP-DIR-AF-6	LT-AF-Z	7	i1937-8b	0.125	273	g
+This study	1.7	312.3	12.1	i1937-8b-LP-DIR-AF	Molspin	3.02E-06	0.2731229	273	i1937-8b-LP-DIR-AF-7	LT-AF-Z	8	i1937-8b	0.15	273	g
+This study	3.8	320.5	11.5	i1937-8b-LP-DIR-AF	Molspin	2.71E-06	0.2450486	273	i1937-8b-LP-DIR-AF-8	LT-AF-Z	9	i1937-8b	0.175	273	g
+This study	2.3	320.5	10.6	i1937-8b-LP-DIR-AF	Molspin	2.52E-06	0.2279681	273	i1937-8b-LP-DIR-AF-9	LT-AF-Z	1	i1937-8b	0.2	273	g
+This study	1.8	318.2	9.8	i1937-8b-LP-DIR-AF	Molspin	2.42E-06	0.2190892	273	i1937-8b-LP-DIR-AF-10	LT-AF-Z	11	i1937-8b	0.25	273	g
+This study	3.3	319.9	8.8	i1937-8b-LP-DIR-AF	Molspin	2.23E-06	0.2020136	273	i1937-8b-LP-DIR-AF-11	LT-AF-Z	12	i1937-8b	0.3	273	g
+This study	2.5	322.3	10.7	i1937-8b-LP-DIR-AF	Molspin	2.08E-06	0.1884385	273	i1937-8b-LP-DIR-AF-12	LT-AF-Z	13	i1937-8b	0.4	273	g
+This study	2.8	321.4	11	i1937-8b-LP-DIR-AF	Molspin	1.78E-06	0.1612492	273	i1937-8b-LP-DIR-AF-13	LT-AF-Z	14	i1937-8b	0.5	273	g
+This study	5.3	330	11.9	i1937-8b-LP-DIR-AF	Molspin	1.65E-06	0.1495012	273	i1937-8b-LP-DIR-AF-14	LT-AF-Z	15	i1937-8b	0.6	273	g
+This study	3.1	325.6	14.6	i1937-8b-LP-DIR-AF	Molspin	1.60E-06	0.1449502	273	i1937-8b-LP-DIR-AF-15	LT-AF-Z	16	i1937-8b	0.7	273	g
+This study	4.2	321.9	14.4	i1937-8b-LP-DIR-AF	Molspin	1.44E-06	0.1301	273	i1937-8b-LP-DIR-AF-16	LT-AF-Z	17	i1937-8b	0.8	273	g
+This study	2.3	322.6	14.4	i1937-8b-LP-DIR-AF	Molspin	1.37E-06	0.1241025	273	i1937-8b-LP-DIR-AF-17	LT-AF-Z	18	i1937-8b	0.9	273	g
+This study	1.8	327.3	16.5	i1937-8b-LP-DIR-AF	Molspin	1.35E-06	0.1223251	273	i1937-8b-LP-DIR-AF-18	LT-AF-Z	19	i1937-8b	1	273	g
+This study	1	119.4	-1.9	I1938-3B-LP-DIR-AF	Molspin	1.74E-05	1.540724	273	I1938-3B-LP-DIR-AF-1	LT-AF-Z	2	I1938-3B	0	273	g
+This study	1	123.4	-11.6	I1938-3B-LP-DIR-AF	Molspin	1.60E-05	1.420305	273	I1938-3B-LP-DIR-AF-2	LT-AF-Z	3	I1938-3B	0.005	273	g
+This study	1	123.1	-10.6	I1938-3B-LP-DIR-AF	Molspin	1.49E-05	1.315892	273	I1938-3B-LP-DIR-AF-3	LT-AF-Z	4	I1938-3B	0.0075	273	g
+This study	1	121.7	-9.8	I1938-3B-LP-DIR-AF	Molspin	1.36E-05	1.207986	273	I1938-3B-LP-DIR-AF-4	LT-AF-Z	5	I1938-3B	0.01	273	g
+This study	1	122.4	-8.4	I1938-3B-LP-DIR-AF	Molspin	1.10E-05	0.972809	273	I1938-3B-LP-DIR-AF-5	LT-AF-Z	6	I1938-3B	0.015	273	g
+This study	1	128	-9.3	I1938-3B-LP-DIR-AF	Molspin	8.74E-06	0.774513	273	I1938-3B-LP-DIR-AF-6	LT-AF-Z	7	I1938-3B	0.02	273	g
+This study	1	124.6	-9.3	I1938-3B-LP-DIR-AF	Molspin	7.27E-06	0.643946	273	I1938-3B-LP-DIR-AF-7	LT-AF-Z	8	I1938-3B	0.025	273	g
+This study	1	127.4	-8.4	I1938-3B-LP-DIR-AF	Molspin	5.94E-06	0.525694	273	I1938-3B-LP-DIR-AF-8	LT-AF-Z	9	I1938-3B	0.03	273	g
+This study	1	122.5	-5.1	I1938-3B-LP-DIR-AF	Molspin	5.12E-06	0.453663	273	I1938-3B-LP-DIR-AF-9	LT-AF-Z	1	I1938-3B	0.035	273	g
+This study	1	123.5	-8.3	I1938-3B-LP-DIR-AF	Molspin	4.28E-06	0.379266	273	I1938-3B-LP-DIR-AF-10	LT-AF-Z	11	I1938-3B	0.04	273	g
+This study	1	116	-6.2	I1938-3B-LP-DIR-AF	Molspin	3.34E-06	0.295569	273	I1938-3B-LP-DIR-AF-11	LT-AF-Z	12	I1938-3B	0.05	273	g
+This study	1	127	-7.8	I1938-3B-LP-DIR-AF	Molspin	2.75E-06	0.243739	273	I1938-3B-LP-DIR-AF-12	LT-AF-Z	13	I1938-3B	0.06	273	g
+This study	1	128.2	-8.5	I1938-3B-LP-DIR-AF	Molspin	2.50E-06	0.221855	273	I1938-3B-LP-DIR-AF-13	LT-AF-Z	14	I1938-3B	0.07	273	g
+This study	1	126.6	-6.9	I1938-3B-LP-DIR-AF	Molspin	2.14E-06	0.189188	273	I1938-3B-LP-DIR-AF-14	LT-AF-Z	15	I1938-3B	0.08	273	g
+This study	1	128.8	-7.2	I1938-3B-LP-DIR-AF	Molspin	1.89E-06	0.167677	273	I1938-3B-LP-DIR-AF-15	LT-AF-Z	16	I1938-3B	0.09	273	g
+This study	1	132.5	-11.2	I1938-3B-LP-DIR-AF	Molspin	1.44E-06	0.12748	273	I1938-3B-LP-DIR-AF-16	LT-AF-Z	17	I1938-3B	0.1	273	g
+This study	4.3	179.6	-28.5	I1938-4B-LP-DIR-AF	Molspin	1.40E-05	1.272602	273	I1938-4B-LP-DIR-AF-1	LT-AF-Z	2	I1938-4B	0	273	g
+This study	4.3	181.5	-29.5	I1938-4B-LP-DIR-AF	Molspin	1.43E-05	1.299272	273	I1938-4B-LP-DIR-AF-2	LT-AF-Z	3	I1938-4B	0.025	273	g
+This study	2.8	181.2	-27.9	I1938-4B-LP-DIR-AF	Molspin	1.39E-05	1.258786	273	I1938-4B-LP-DIR-AF-3	LT-AF-Z	4	I1938-4B	0.05	273	g
+This study	3.2	179.8	-25.7	I1938-4B-LP-DIR-AF	Molspin	1.32E-05	1.195605	273	I1938-4B-LP-DIR-AF-4	LT-AF-Z	5	I1938-4B	0.075	273	g
+This study	2.5	181.8	-22.2	I1938-4B-LP-DIR-AF	Molspin	1.21E-05	1.095937	273	I1938-4B-LP-DIR-AF-5	LT-AF-Z	6	I1938-4B	0.1	273	g
+This study	2.1	179.8	-22.2	I1938-4B-LP-DIR-AF	Molspin	1.20E-05	1.087678	273	I1938-4B-LP-DIR-AF-6	LT-AF-Z	7	I1938-4B	0.125	273	g
+This study	3.7	183.2	-22.2	I1938-4B-LP-DIR-AF	Molspin	1.21E-05	1.09707	273	I1938-4B-LP-DIR-AF-7	LT-AF-Z	8	I1938-4B	0.15	273	g
+This study	3.2	184.5	-16.5	I1938-4B-LP-DIR-AF	Molspin	7.08E-06	0.641191	273	I1938-4B-LP-DIR-AF-8	LT-AF-Z	9	I1938-4B	0.2	273	g
+This study	1.9	185.6	-17.4	I1938-4B-LP-DIR-AF	Molspin	5.79E-06	0.524149	273	I1938-4B-LP-DIR-AF-9	LT-AF-Z	1	I1938-4B	0.25	273	g
+This study	3.1	185.2	-15.4	I1938-4B-LP-DIR-AF	Molspin	4.74E-06	0.429202	273	I1938-4B-LP-DIR-AF-10	LT-AF-Z	11	I1938-4B	0.3	273	g
+This study	3.8	184.1	-15	I1938-4B-LP-DIR-AF	Molspin	3.44E-06	0.311976	273	I1938-4B-LP-DIR-AF-11	LT-AF-Z	12	I1938-4B	0.4	273	g
+This study	1	186.9	-6.9	I1938-4B-LP-DIR-AF	Molspin	1.53E-06	0.1386	273	I1938-4B-LP-DIR-AF-12	LT-AF-Z	13	I1938-4B	0.5	273	g
+This study	1	175	-8.1	I1938-4B-LP-DIR-AF	Molspin	1.43E-06	0.1298	273	I1938-4B-LP-DIR-AF-13	LT-AF-Z	14	I1938-4B	0.6	273	g
+This study	1	186.6	-11.2	I1938-4B-LP-DIR-AF	Molspin	1.41E-06	0.1276	273	I1938-4B-LP-DIR-AF-14	LT-AF-Z	15	I1938-4B	0.7	273	g
+This study	3.8	166.6	-23	i1938-5b-LP-DIR-AF	Molspin	1.20E-05	1.0662533	273	i1938-5b-LP-DIR-AF-1	LT-AF-Z	2	i1938-5b	0	273	g
+This study	5.5	167.6	-25.4	i1938-5b-LP-DIR-AF	Molspin	1.19E-05	1.0548546	273	i1938-5b-LP-DIR-AF-2	LT-AF-Z	3	i1938-5b	0.025	273	g
+This study	4.2	172.7	-25.2	i1938-5b-LP-DIR-AF	Molspin	1.16E-05	1.0279694	273	i1938-5b-LP-DIR-AF-3	LT-AF-Z	4	i1938-5b	0.05	273	g
+This study	3.5	168.4	-24.4	i1938-5b-LP-DIR-AF	Molspin	1.18E-05	1.0446198	273	i1938-5b-LP-DIR-AF-4	LT-AF-Z	5	i1938-5b	0.075	273	g
+This study	3.9	171.1	-23.3	i1938-5b-LP-DIR-AF	Molspin	1.10E-05	0.9759692	273	i1938-5b-LP-DIR-AF-5	LT-AF-Z	6	i1938-5b	0.1	273	g
+This study	4.2	173	-18.6	i1938-5b-LP-DIR-AF	Molspin	9.84E-06	0.871452	273	i1938-5b-LP-DIR-AF-6	LT-AF-Z	7	i1938-5b	0.125	273	g
+This study	3.9	179.1	-17.3	i1938-5b-LP-DIR-AF	Molspin	8.94E-06	0.7917894	273	i1938-5b-LP-DIR-AF-7	LT-AF-Z	8	i1938-5b	0.15	273	g
+This study	2.6	180	-12.7	i1938-5b-LP-DIR-AF	Molspin	5.91E-06	0.5236199	273	i1938-5b-LP-DIR-AF-8	LT-AF-Z	9	i1938-5b	0.2	273	g
+This study	3.2	180.7	-15.9	i1938-5b-LP-DIR-AF	Molspin	5.12E-06	0.4531722	273	i1938-5b-LP-DIR-AF-9	LT-AF-Z	1	i1938-5b	0.25	273	g
+This study	3.6	179	-15.5	i1938-5b-LP-DIR-AF	Molspin	4.26E-06	0.3772685	273	i1938-5b-LP-DIR-AF-10	LT-AF-Z	11	i1938-5b	0.3	273	g
+This study	2.7	178.3	-11.9	i1938-5b-LP-DIR-AF	Molspin	3.13E-06	0.2776581	273	i1938-5b-LP-DIR-AF-11	LT-AF-Z	12	i1938-5b	0.4	273	g
+This study	1.6	176.2	-18.8	I1938-6b-LP-DIR-AF	Molspin	2.76E-06	0.2439445	273	I1938-6b-LP-DIR-AF-1	LT-AF-Z	2	I1938-6b	0	273	g
+This study	2.5	175.1	-17.8	I1938-6b-LP-DIR-AF	Molspin	2.78E-06	0.2462277	273	I1938-6b-LP-DIR-AF-2	LT-AF-Z	3	I1938-6b	0.003	273	g
+This study	2	177.7	-18.3	I1938-6b-LP-DIR-AF	Molspin	2.71E-06	0.2397468	273	I1938-6b-LP-DIR-AF-3	LT-AF-Z	4	I1938-6b	0.005	273	g
+This study	3.1	183.1	-16.2	I1938-6b-LP-DIR-AF	Molspin	2.69E-06	0.2377475	273	I1938-6b-LP-DIR-AF-4	LT-AF-Z	5	I1938-6b	0.008	273	g
+This study	1.8	181.5	-15.9	I1938-6b-LP-DIR-AF	Molspin	2.68E-06	0.2372845	273	I1938-6b-LP-DIR-AF-5	LT-AF-Z	6	I1938-6b	0.01	273	g
+This study	2	175.6	-16.7	I1938-6b-LP-DIR-AF	Molspin	2.60E-06	0.2304302	273	I1938-6b-LP-DIR-AF-6	LT-AF-Z	7	I1938-6b	0.013	273	g
+This study	2.4	176.1	-15.6	I1938-6b-LP-DIR-AF	Molspin	2.54E-06	0.2246675	273	I1938-6b-LP-DIR-AF-7	LT-AF-Z	8	I1938-6b	0.015	273	g
+This study	3.7	181.8	-16.8	I1938-6b-LP-DIR-AF	Molspin	2.69E-06	0.2378871	273	I1938-6b-LP-DIR-AF-8	LT-AF-Z	9	I1938-6b	0.02	273	g
+This study	3.6	178	-16.6	I1938-6b-LP-DIR-AF	Molspin	2.70E-06	0.2387745	273	I1938-6b-LP-DIR-AF-9	LT-AF-Z	1	I1938-6b	0.025	273	g
+This study	3	174.7	-15.5	I1938-6b-LP-DIR-AF	Molspin	2.65E-06	0.2344534	273	I1938-6b-LP-DIR-AF-10	LT-AF-Z	11	I1938-6b	0.03	273	g
+This study	2.1	183	-14.3	I1938-6b-LP-DIR-AF	Molspin	2.63E-06	0.2331255	273	I1938-6b-LP-DIR-AF-11	LT-AF-Z	12	I1938-6b	0.035	273	g
+This study	3.2	180	-11.9	I1938-6b-LP-DIR-AF	Molspin	2.43E-06	0.2154417	273	I1938-6b-LP-DIR-AF-12	LT-AF-Z	13	I1938-6b	0.04	273	g
+This study	1.5	179.2	-10.8	I1938-6b-LP-DIR-AF	Molspin	2.01E-06	0.1782872	273	I1938-6b-LP-DIR-AF-13	LT-AF-Z	14	I1938-6b	0.05	273	g
+This study	2.4	165.2	-23.3	I1938-6b-LP-DIR-AF	Molspin	2.10E-06	0.1861944	273	I1938-6b-LP-DIR-AF-14	LT-AF-Z	15	I1938-6b	0.06	273	g
+This study	3.8	167.9	-22.3	I1938-6b-LP-DIR-AF	Molspin	1.60E-06	0.1419366	273	I1938-6b-LP-DIR-AF-15	LT-AF-Z	16	I1938-6b	0.07	273	g
+This study	2.5	173	-29.5	I1938-6b-LP-DIR-AF	Molspin	1.14E-06	0.1009441	273	I1938-6b-LP-DIR-AF-16	LT-AF-Z	17	I1938-6b	0.08	273	g
+This study	2	166.6	-18.1	I1938-6b-LP-DIR-AF	Molspin	1.17E-06	0.1034745	273	I1938-6b-LP-DIR-AF-17	LT-AF-Z	18	I1938-6b	0.09	273	g
+This study	1.7	165.4	-17.9	I1938-6b-LP-DIR-AF	Molspin	7.15E-07	0.0633107	273	I1938-6b-LP-DIR-AF-18	LT-AF-Z	19	I1938-6b	0.1	273	g
+This study	1	167.8	-7.3	I1938-8B-LP-DIR-AF	Molspin	1.71E-05	1.518357	273	I1938-8B-LP-DIR-AF-1	LT-AF-Z	2	I1938-8B	0	273	g
+This study	1	169.1	-12.8	I1938-8B-LP-DIR-AF	Molspin	1.74E-05	1.544364	273	I1938-8B-LP-DIR-AF-2	LT-AF-Z	3	I1938-8B	0.005	273	g
+This study	1	170.8	-12.9	I1938-8B-LP-DIR-AF	Molspin	1.71E-05	1.51753	273	I1938-8B-LP-DIR-AF-3	LT-AF-Z	4	I1938-8B	0.0075	273	g
+This study	1	168.2	-13.9	I1938-8B-LP-DIR-AF	Molspin	1.64E-05	1.453199	273	I1938-8B-LP-DIR-AF-4	LT-AF-Z	5	I1938-8B	0.01	273	g
+This study	1	168.8	-12.5	I1938-8B-LP-DIR-AF	Molspin	1.42E-05	1.260167	273	I1938-8B-LP-DIR-AF-5	LT-AF-Z	6	I1938-8B	0.015	273	g
+This study	1	170.9	-12.1	I1938-8B-LP-DIR-AF	Molspin	1.16E-05	1.025324	273	I1938-8B-LP-DIR-AF-6	LT-AF-Z	7	I1938-8B	0.02	273	g
+This study	1	168.8	-11	I1938-8B-LP-DIR-AF	Molspin	9.57E-06	0.847361	273	I1938-8B-LP-DIR-AF-7	LT-AF-Z	8	I1938-8B	0.025	273	g
+This study	1	165.2	-8.7	I1938-8B-LP-DIR-AF	Molspin	7.89E-06	0.699135	273	I1938-8B-LP-DIR-AF-8	LT-AF-Z	9	I1938-8B	0.03	273	g
+This study	1	169.2	-8.3	I1938-8B-LP-DIR-AF	Molspin	6.49E-06	0.575169	273	I1938-8B-LP-DIR-AF-9	LT-AF-Z	1	I1938-8B	0.035	273	g
+This study	1	168.3	-9.2	I1938-8B-LP-DIR-AF	Molspin	5.68E-06	0.502789	273	I1938-8B-LP-DIR-AF-10	LT-AF-Z	11	I1938-8B	0.04	273	g
+This study	1	170.1	-4.9	I1938-8B-LP-DIR-AF	Molspin	4.41E-06	0.390214	273	I1938-8B-LP-DIR-AF-11	LT-AF-Z	12	I1938-8B	0.05	273	g
+This study	1	170.9	-3.4	I1938-8B-LP-DIR-AF	Molspin	3.42E-06	0.303363	273	I1938-8B-LP-DIR-AF-12	LT-AF-Z	13	I1938-8B	0.06	273	g
+This study	1	173.9	-0.7	I1938-8B-LP-DIR-AF	Molspin	2.88E-06	0.255449	273	I1938-8B-LP-DIR-AF-13	LT-AF-Z	14	I1938-8B	0.07	273	g
+This study	1	174.7	-1.1	I1938-8B-LP-DIR-AF	Molspin	2.31E-06	0.204922	273	I1938-8B-LP-DIR-AF-14	LT-AF-Z	15	I1938-8B	0.08	273	g
+This study	1	182.4	-2.9	I1938-8B-LP-DIR-AF	Molspin	1.64E-06	0.145316	273	I1938-8B-LP-DIR-AF-15	LT-AF-Z	16	I1938-8B	0.09	273	g
+This study	1	187	-9.6	I1938-8B-LP-DIR-AF	Molspin	1.48E-06	0.131278	273	I1938-8B-LP-DIR-AF-16	LT-AF-Z	17	I1938-8B	0.1	273	g
+This study	1	118.3	2.5	I1938-9B-LP-DIR-AF	Molspin	2.26E-05	2.004598	273	I1938-9B-LP-DIR-AF-1	LT-AF-Z	2	I1938-9B	0	273	g
+This study	1	122.1	0.7	I1938-9B-LP-DIR-AF	Molspin	2.23E-05	1.973971	273	I1938-9B-LP-DIR-AF-2	LT-AF-Z	3	I1938-9B	0.005	273	g
+This study	1	119.5	-0.3	I1938-9B-LP-DIR-AF	Molspin	2.15E-05	1.907701	273	I1938-9B-LP-DIR-AF-3	LT-AF-Z	4	I1938-9B	0.0075	273	g
+This study	1	121.1	-1.3	I1938-9B-LP-DIR-AF	Molspin	2.06E-05	1.826215	273	I1938-9B-LP-DIR-AF-4	LT-AF-Z	5	I1938-9B	0.01	273	g
+This study	1	121.9	-0.9	I1938-9B-LP-DIR-AF	Molspin	1.75E-05	1.54968	273	I1938-9B-LP-DIR-AF-5	LT-AF-Z	6	I1938-9B	0.015	273	g
+This study	1	120.4	-1.3	I1938-9B-LP-DIR-AF	Molspin	1.45E-05	1.285444	273	I1938-9B-LP-DIR-AF-6	LT-AF-Z	7	I1938-9B	0.02	273	g
+This study	1	118.7	-0.4	I1938-9B-LP-DIR-AF	Molspin	1.18E-05	1.04855	273	I1938-9B-LP-DIR-AF-7	LT-AF-Z	8	I1938-9B	0.025	273	g
+This study	1	120.7	-0.6	I1938-9B-LP-DIR-AF	Molspin	9.47E-06	0.838514	273	I1938-9B-LP-DIR-AF-8	LT-AF-Z	9	I1938-9B	0.03	273	g
+This study	1	118.7	1.2	I1938-9B-LP-DIR-AF	Molspin	7.84E-06	0.694718	273	I1938-9B-LP-DIR-AF-9	LT-AF-Z	1	I1938-9B	0.035	273	g
+This study	1	123.8	3.1	I1938-9B-LP-DIR-AF	Molspin	6.54E-06	0.57966	273	I1938-9B-LP-DIR-AF-10	LT-AF-Z	11	I1938-9B	0.04	273	g
+This study	1	123.7	1.1	I1938-9B-LP-DIR-AF	Molspin	4.86E-06	0.430522	273	I1938-9B-LP-DIR-AF-11	LT-AF-Z	12	I1938-9B	0.05	273	g
+This study	1	126	-0.7	I1938-9B-LP-DIR-AF	Molspin	3.67E-06	0.325063	273	I1938-9B-LP-DIR-AF-12	LT-AF-Z	13	I1938-9B	0.06	273	g
+This study	1	118.5	6.3	I1938-9B-LP-DIR-AF	Molspin	3.08E-06	0.272369	273	I1938-9B-LP-DIR-AF-13	LT-AF-Z	14	I1938-9B	0.07	273	g
+This study	1	126	1.7	I1938-9B-LP-DIR-AF	Molspin	2.78E-06	0.246214	273	I1938-9B-LP-DIR-AF-14	LT-AF-Z	15	I1938-9B	0.08	273	g
+This study	1	129.3	5.8	I1938-9B-LP-DIR-AF	Molspin	2.42E-06	0.214509	273	I1938-9B-LP-DIR-AF-15	LT-AF-Z	16	I1938-9B	0.09	273	g
+This study	1	118.1	5.9	I1938-9B-LP-DIR-AF	Molspin	2.09E-06	0.185388	273	I1938-9B-LP-DIR-AF-16	LT-AF-Z	17	I1938-9B	0.1	273	g
+This study	0.9	252.4	67	I1939-1B-LP-DIR-AF	Molspin	2.18E-05	1.926829	273	I1939-1B-LP-DIR-AF-1	LT-AF-Z	2	I1939-1B	0	273	g
+This study	1.7	257.1	66.2	I1939-1B-LP-DIR-AF	Molspin	2.03E-05	1.798588	273	I1939-1B-LP-DIR-AF-2	LT-AF-Z	3	I1939-1B	0.025	273	g
+This study	3.2	258.3	67.9	I1939-1B-LP-DIR-AF	Molspin	1.89E-05	1.675079	273	I1939-1B-LP-DIR-AF-3	LT-AF-Z	4	I1939-1B	0.05	273	g
+This study	3.2	266.4	71.5	I1939-1B-LP-DIR-AF	Molspin	1.65E-05	1.458268	273	I1939-1B-LP-DIR-AF-4	LT-AF-Z	5	I1939-1B	0.075	273	g
+This study	1.9	261.4	70.6	I1939-1B-LP-DIR-AF	Molspin	1.39E-05	1.231093	273	I1939-1B-LP-DIR-AF-5	LT-AF-Z	6	I1939-1B	0.1	273	g
+This study	0.9	274.4	74.2	I1939-1B-LP-DIR-AF	Molspin	1.06E-05	0.935625	273	I1939-1B-LP-DIR-AF-6	LT-AF-Z	7	I1939-1B	0.125	273	g
+This study	2.4	286.5	72.8	I1939-1B-LP-DIR-AF	Molspin	8.00E-06	0.7088	273	I1939-1B-LP-DIR-AF-7	LT-AF-Z	8	I1939-1B	0.15	273	g
+This study	1.4	303.1	69.3	I1939-1B-LP-DIR-AF	Molspin	6.41E-06	0.568091	273	I1939-1B-LP-DIR-AF-8	LT-AF-Z	9	I1939-1B	0.175	273	g
+This study	2	296.7	69	I1939-1B-LP-DIR-AF	Molspin	5.13E-06	0.4548	273	I1939-1B-LP-DIR-AF-9	LT-AF-Z	1	I1939-1B	0.2	273	g
+This study	0.9	301.2	63.5	I1939-1B-LP-DIR-AF	Molspin	3.88E-06	0.343497	273	I1939-1B-LP-DIR-AF-10	LT-AF-Z	11	I1939-1B	0.25	273	g
+This study	2.6	303.1	62.6	I1939-1B-LP-DIR-AF	Molspin	3.33E-06	0.295165	273	I1939-1B-LP-DIR-AF-11	LT-AF-Z	12	I1939-1B	0.3	273	g
+This study	1.6	314.2	58.2	I1939-1B-LP-DIR-AF	Molspin	2.47E-06	0.218963	273	I1939-1B-LP-DIR-AF-12	LT-AF-Z	13	I1939-1B	0.4	273	g
+This study	1.4	308.5	56.3	I1939-1B-LP-DIR-AF	Molspin	1.97E-06	0.174892	273	I1939-1B-LP-DIR-AF-13	LT-AF-Z	14	I1939-1B	0.5	273	g
+This study	2.6	319.9	56.9	I1939-1B-LP-DIR-AF	Molspin	1.59E-06	0.140891	273	I1939-1B-LP-DIR-AF-14	LT-AF-Z	15	I1939-1B	0.6	273	g
+This study	2.1	319.6	56.8	I1939-1B-LP-DIR-AF	Molspin	1.37E-06	0.120912	273	I1939-1B-LP-DIR-AF-15	LT-AF-Z	16	I1939-1B	0.7	273	g
+This study	2.6	318.8	56.3	I1939-1B-LP-DIR-AF	Molspin	1.16E-06	0.102588	273	I1939-1B-LP-DIR-AF-16	LT-AF-Z	17	I1939-1B	0.8	273	g
+This study	1.1	320.1	58.1	I1939-1B-LP-DIR-AF	Molspin	1.15E-06	0.10145	273	I1939-1B-LP-DIR-AF-17	LT-AF-Z	18	I1939-1B	0.9	273	g
+This study	0.8	319.4	55.4	I1939-1B-LP-DIR-AF	Molspin	1.14E-06	0.101222	273	I1939-1B-LP-DIR-AF-18	LT-AF-Z	19	I1939-1B	1	273	g
+This study	1.6	266.9	70.4	I1939-3B-LP-DIR-AF	Molspin	1.74E-05	1.607582	273	I1939-3B-LP-DIR-AF-1	LT-AF-Z	2	I1939-3B	0	273	g
+This study	0.5	264.7	66	I1939-3B-LP-DIR-AF	Molspin	1.66E-05	1.532727	273	I1939-3B-LP-DIR-AF-2	LT-AF-Z	3	I1939-3B	0.025	273	g
+This study	1.8	268.6	68.8	I1939-3B-LP-DIR-AF	Molspin	1.55E-05	1.435162	273	I1939-3B-LP-DIR-AF-3	LT-AF-Z	4	I1939-3B	0.05	273	g
+This study	1.4	283.9	71.5	I1939-3B-LP-DIR-AF	Molspin	1.37E-05	1.263981	273	I1939-3B-LP-DIR-AF-4	LT-AF-Z	5	I1939-3B	0.075	273	g
+This study	1.2	276	69.2	I1939-3B-LP-DIR-AF	Molspin	1.12E-05	1.038004	273	I1939-3B-LP-DIR-AF-5	LT-AF-Z	6	I1939-3B	0.1	273	g
+This study	1.5	288.6	70.5	I1939-3B-LP-DIR-AF	Molspin	8.71E-06	0.806663	273	I1939-3B-LP-DIR-AF-6	LT-AF-Z	7	I1939-3B	0.125	273	g
+This study	1	295.7	69.7	I1939-3B-LP-DIR-AF	Molspin	6.66E-06	0.616973	273	I1939-3B-LP-DIR-AF-7	LT-AF-Z	8	I1939-3B	0.15	273	g
+This study	1	304.6	64.5	I1939-3B-LP-DIR-AF	Molspin	5.15E-06	0.477009	273	I1939-3B-LP-DIR-AF-8	LT-AF-Z	9	I1939-3B	0.175	273	g
+This study	1	298.1	63.7	I1939-3B-LP-DIR-AF	Molspin	4.86E-06	0.4497	273	I1939-3B-LP-DIR-AF-9	LT-AF-Z	1	I1939-3B	0.2	273	g
+This study	1	300.6	59.8	I1939-3B-LP-DIR-AF	Molspin	3.96E-06	0.3669	273	I1939-3B-LP-DIR-AF-10	LT-AF-Z	11	I1939-3B	0.25	273	g
+This study	1	301.6	53.4	I1939-3B-LP-DIR-AF	Molspin	3.21E-06	0.2976	273	I1939-3B-LP-DIR-AF-11	LT-AF-Z	12	I1939-3B	0.3	273	g
+This study	1	299.8	52	I1939-3B-LP-DIR-AF	Molspin	3.03E-06	0.2801	273	I1939-3B-LP-DIR-AF-12	LT-AF-Z	13	I1939-3B	0.4	273	g
+This study	1	298.2	41.3	I1939-3B-LP-DIR-AF	Molspin	2.10E-06	0.1947	273	I1939-3B-LP-DIR-AF-13	LT-AF-Z	14	I1939-3B	0.5	273	g
+This study	1	289.6	35.7	I1939-3B-LP-DIR-AF	Molspin	1.69E-06	0.1569	273	I1939-3B-LP-DIR-AF-14	LT-AF-Z	15	I1939-3B	0.6	273	g
+This study	1	265.7	61.1	I1939-4B-LP-DIR-AF	Molspin	1.27E-05	1.095475	273	I1939-4B-LP-DIR-AF-1	LT-AF-Z	2	I1939-4B	0	273	g
+This study	1	263.4	61.8	I1939-4B-LP-DIR-AF	Molspin	1.17E-05	1.009852	273	I1939-4B-LP-DIR-AF-2	LT-AF-Z	3	I1939-4B	0.0025	273	g
+This study	1	266.2	61.9	I1939-4B-LP-DIR-AF	Molspin	1.10E-05	0.948004	273	I1939-4B-LP-DIR-AF-3	LT-AF-Z	4	I1939-4B	0.005	273	g
+This study	1	271.1	61.4	I1939-4B-LP-DIR-AF	Molspin	1.01E-05	0.872665	273	I1939-4B-LP-DIR-AF-4	LT-AF-Z	5	I1939-4B	0.0075	273	g
+This study	1	274.3	59	I1939-4B-LP-DIR-AF	Molspin	8.70E-06	0.752752	273	I1939-4B-LP-DIR-AF-5	LT-AF-Z	6	I1939-4B	0.01	273	g
+This study	1	276.1	55.6	I1939-4B-LP-DIR-AF	Molspin	7.18E-06	0.620737	273	I1939-4B-LP-DIR-AF-6	LT-AF-Z	7	I1939-4B	0.012	273	g
+This study	1	283.6	53.6	I1939-4B-LP-DIR-AF	Molspin	5.81E-06	0.503016	273	I1939-4B-LP-DIR-AF-7	LT-AF-Z	8	I1939-4B	0.015	273	g
+This study	1	287.7	51	I1939-4B-LP-DIR-AF	Molspin	4.84E-06	0.418361	273	I1939-4B-LP-DIR-AF-8	LT-AF-Z	9	I1939-4B	0.017	273	g
+This study	1	292.1	46.9	I1939-4B-LP-DIR-AF	Molspin	4.05E-06	0.3506	273	I1939-4B-LP-DIR-AF-9	LT-AF-Z	1	I1939-4B	0.02	273	g
+This study	1	296.4	42.6	I1939-4B-LP-DIR-AF	Molspin	3.08E-06	0.266292	273	I1939-4B-LP-DIR-AF-10	LT-AF-Z	11	I1939-4B	0.025	273	g
+This study	1	298.4	40.6	I1939-4B-LP-DIR-AF	Molspin	2.61E-06	0.225447	273	I1939-4B-LP-DIR-AF-11	LT-AF-Z	12	I1939-4B	0.03	273	g
+This study	1	297.3	43	I1939-4B-LP-DIR-AF	Molspin	2.65E-06	0.229563	273	I1939-4B-LP-DIR-AF-12	LT-AF-Z	13	I1939-4B	0.04	273	g
+This study	1	296	38.4	I1939-4B-LP-DIR-AF	Molspin	1.90E-06	0.164521	273	I1939-4B-LP-DIR-AF-13	LT-AF-Z	14	I1939-4B	0.05	273	g
+This study	1	298.6	33.8	I1939-4B-LP-DIR-AF	Molspin	1.69E-06	0.146618	273	I1939-4B-LP-DIR-AF-14	LT-AF-Z	15	I1939-4B	0.06	273	g
+This study	1	295.2	38	I1939-4B-LP-DIR-AF	Molspin	1.57E-06	0.135428	273	I1939-4B-LP-DIR-AF-15	LT-AF-Z	16	I1939-4B	0.07	273	g
+This study	1	288	37.5	I1939-4B-LP-DIR-AF	Molspin	1.42E-06	0.122859	273	I1939-4B-LP-DIR-AF-16	LT-AF-Z	17	I1939-4B	0.08	273	g
+This study	1.8	255.3	75	I1939-6B-LP-DIR-AF	Molspin	1.27E-05	1.581601	273	I1939-6B-LP-DIR-AF-1	LT-AF-Z	2	I1939-6B	0	273	g
+This study	1.5	250.3	68.6	I1939-6B-LP-DIR-AF	Molspin	1.07E-05	1.323778	273	I1939-6B-LP-DIR-AF-2	LT-AF-Z	3	I1939-6B	0.025	273	g
+This study	1.9	274.2	71.4	I1939-6B-LP-DIR-AF	Molspin	8.84E-06	1.097736	273	I1939-6B-LP-DIR-AF-3	LT-AF-Z	4	I1939-6B	0.05	273	g
+This study	2.7	286.2	73.7	I1939-6B-LP-DIR-AF	Molspin	6.98E-06	0.867392	273	I1939-6B-LP-DIR-AF-4	LT-AF-Z	5	I1939-6B	0.075	273	g
+This study	2.1	287.5	70.4	I1939-6B-LP-DIR-AF	Molspin	5.29E-06	0.657445	273	I1939-6B-LP-DIR-AF-5	LT-AF-Z	6	I1939-6B	0.1	273	g
+This study	0.4	290	67.6	I1939-6B-LP-DIR-AF	Molspin	3.92E-06	0.486824	273	I1939-6B-LP-DIR-AF-6	LT-AF-Z	7	I1939-6B	0.125	273	g
+This study	1.1	291.6	68.6	I1939-6B-LP-DIR-AF	Molspin	3.07E-06	0.380934	273	I1939-6B-LP-DIR-AF-7	LT-AF-Z	8	I1939-6B	0.15	273	g
+This study	0.9	299	65.2	I1939-6B-LP-DIR-AF	Molspin	2.51E-06	0.311447	273	I1939-6B-LP-DIR-AF-8	LT-AF-Z	9	I1939-6B	0.175	273	g
+This study	2.6	303.2	62.1	I1939-6B-LP-DIR-AF	Molspin	2.12E-06	0.262961	273	I1939-6B-LP-DIR-AF-9	LT-AF-Z	1	I1939-6B	0.2	273	g
+This study	2.3	307.9	58.7	I1939-6B-LP-DIR-AF	Molspin	1.82E-06	0.226169	273	I1939-6B-LP-DIR-AF-10	LT-AF-Z	11	I1939-6B	0.25	273	g
+This study	3	303.9	51.9	I1939-6B-LP-DIR-AF	Molspin	1.48E-06	0.183436	273	I1939-6B-LP-DIR-AF-11	LT-AF-Z	12	I1939-6B	0.3	273	g
+This study	2	308.4	47.1	I1939-6B-LP-DIR-AF	Molspin	1.43E-06	0.177215	273	I1939-6B-LP-DIR-AF-12	LT-AF-Z	13	I1939-6B	0.4	273	g
+This study	1	300.9	50.8	I1939-6B-LP-DIR-AF	Molspin	1.06E-06	0.1311	273	I1939-6B-LP-DIR-AF-13	LT-AF-Z	14	I1939-6B	0.5	273	g
+This study	1	291.3	43.2	I1939-6B-LP-DIR-AF	Molspin	7.69E-07	0.0955	273	I1939-6B-LP-DIR-AF-14	LT-AF-Z	15	I1939-6B	0.6	273	g
+This study	1	287.3	47.3	I1939-6B-LP-DIR-AF	Molspin	7.20E-07	0.0894	273	I1939-6B-LP-DIR-AF-15	LT-AF-Z	16	I1939-6B	0.7	273	g
+This study	1.1	229	61.1	I1939-8b-LP-DIR-AF	Molspin	1.02E-05	0.9014839	273	I1939-8b-LP-DIR-AF-1	LT-AF-Z	2	I1939-8b	0	273	g
+This study	1.6	230.4	58.9	I1939-8b-LP-DIR-AF	Molspin	9.71E-06	0.8599697	273	I1939-8b-LP-DIR-AF-2	LT-AF-Z	3	I1939-8b	0.025	273	g
+This study	2.6	231.2	62.4	I1939-8b-LP-DIR-AF	Molspin	8.73E-06	0.7734972	273	I1939-8b-LP-DIR-AF-3	LT-AF-Z	4	I1939-8b	0.05	273	g
+This study	2	234.7	67.4	I1939-8b-LP-DIR-AF	Molspin	7.18E-06	0.6355635	273	I1939-8b-LP-DIR-AF-4	LT-AF-Z	5	I1939-8b	0.075	273	g
+This study	0.8	229.1	61.5	I1939-8b-LP-DIR-AF	Molspin	5.78E-06	0.5119019	273	I1939-8b-LP-DIR-AF-5	LT-AF-Z	6	I1939-8b	0.1	273	g
+This study	2.2	243.1	66.7	I1939-8b-LP-DIR-AF	Molspin	4.26E-06	0.3777536	273	I1939-8b-LP-DIR-AF-6	LT-AF-Z	7	I1939-8b	0.125	273	g
+This study	0.7	244.2	64.7	I1939-8b-LP-DIR-AF	Molspin	3.32E-06	0.2939804	273	I1939-8b-LP-DIR-AF-7	LT-AF-Z	8	I1939-8b	0.15	273	g
+This study	0.5	255.8	62.6	I1939-8b-LP-DIR-AF	Molspin	2.58E-06	0.2286507	273	I1939-8b-LP-DIR-AF-8	LT-AF-Z	9	I1939-8b	0.175	273	g
+This study	1	336.2	72.5	I1939-2B-LP-DIR-AF	Molspin	2.23E-05	1.976828	273	I1939-2B-LP-DIR-AF-1	LT-AF-Z	2	I1939-2B	0	273	g
+This study	1	336.4	71.7	I1939-2B-LP-DIR-AF	Molspin	2.07E-05	1.83226	273	I1939-2B-LP-DIR-AF-2	LT-AF-Z	3	I1939-2B	0.0025	273	g
+This study	1	336.7	71.6	I1939-2B-LP-DIR-AF	Molspin	1.95E-05	1.72771	273	I1939-2B-LP-DIR-AF-3	LT-AF-Z	4	I1939-2B	0.005	273	g
+This study	1	338	69	I1939-2B-LP-DIR-AF	Molspin	1.74E-05	1.544002	273	I1939-2B-LP-DIR-AF-4	LT-AF-Z	5	I1939-2B	0.0075	273	g
+This study	1	340.1	66.2	I1939-2B-LP-DIR-AF	Molspin	1.49E-05	1.318943	273	I1939-2B-LP-DIR-AF-5	LT-AF-Z	6	I1939-2B	0.01	273	g
+This study	1	342.4	61.4	I1939-2B-LP-DIR-AF	Molspin	1.22E-05	1.077188	273	I1939-2B-LP-DIR-AF-6	LT-AF-Z	7	I1939-2B	0.012	273	g
+This study	1	345	55.6	I1939-2B-LP-DIR-AF	Molspin	1.01E-05	0.890686	273	I1939-2B-LP-DIR-AF-7	LT-AF-Z	8	I1939-2B	0.015	273	g
+This study	1	346.7	51.5	I1939-2B-LP-DIR-AF	Molspin	8.38E-06	0.742494	273	I1939-2B-LP-DIR-AF-8	LT-AF-Z	9	I1939-2B	0.017	273	g
+This study	1	348.5	46.9	I1939-2B-LP-DIR-AF	Molspin	7.05E-06	0.624408	273	I1939-2B-LP-DIR-AF-9	LT-AF-Z	1	I1939-2B	0.02	273	g
+This study	1	348.6	43.5	I1939-2B-LP-DIR-AF	Molspin	5.68E-06	0.503055	273	I1939-2B-LP-DIR-AF-10	LT-AF-Z	11	I1939-2B	0.025	273	g
+This study	1	348.3	40.2	I1939-2B-LP-DIR-AF	Molspin	4.59E-06	0.406238	273	I1939-2B-LP-DIR-AF-11	LT-AF-Z	12	I1939-2B	0.03	273	g
+This study	1	347.5	40.1	I1939-2B-LP-DIR-AF	Molspin	4.42E-06	0.391143	273	I1939-2B-LP-DIR-AF-12	LT-AF-Z	13	I1939-2B	0.04	273	g
+This study	1	341.2	41.9	I1939-2B-LP-DIR-AF	Molspin	2.78E-06	0.246333	273	I1939-2B-LP-DIR-AF-13	LT-AF-Z	14	I1939-2B	0.05	273	g
+This study	1	335.8	31.6	I1939-2B-LP-DIR-AF	Molspin	2.45E-06	0.216591	273	I1939-2B-LP-DIR-AF-14	LT-AF-Z	15	I1939-2B	0.06	273	g
+This study	1	318.8	35.2	I1939-2B-LP-DIR-AF	Molspin	2.28E-06	0.202074	273	I1939-2B-LP-DIR-AF-15	LT-AF-Z	16	I1939-2B	0.07	273	g
+This study	1	327.9	42	I1939-2B-LP-DIR-AF	Molspin	2.00E-06	0.177156	273	I1939-2B-LP-DIR-AF-16	LT-AF-Z	17	I1939-2B	0.08	273	g
